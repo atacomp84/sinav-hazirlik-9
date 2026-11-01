@@ -1,0 +1,2649 @@
+{
+ "sinif": 9,
+ "yil": "2026-2027",
+ "donem": 1,
+ "guncelleme": "2026-11-01",
+ "dersler": [
+  {
+   "id": "turk-dili-ve-edebiyati",
+   "ad": "Türk Dili ve Edebiyatı",
+   "sinavlar": [
+    {
+     "ad": "1. Dönem 1. Yazılı",
+     "senaryolar": [
+      "Senaryo 1",
+      "Senaryo 2",
+      "Senaryo 3"
+     ],
+     "kazanimlar": [
+      {
+       "unite": "1. TEMA: SÖZÜN İNCELİĞİ",
+       "konu": "OKUMA • Tema içeriğine uygun bir şiir • Tema içeriğine uygun bir deneme",
+       "kod": "TDE2.1",
+       "metin": "“Sözün İnceliği” temasında ele alınan metinlerde okumayı yönetebilme",
+       "sorular": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "1. TEMA: SÖZÜN İNCELİĞİ",
+       "konu": "OKUMA • Tema içeriğine uygun bir şiir • Tema içeriğine uygun bir deneme",
+       "kod": "TDE2.2",
+       "metin": "“Sözün İnceliği” temasında ele alınan metinlerde anlam oluşturabilme",
+       "sorular": [
+        4,
+        5,
+        6
+       ]
+      },
+      {
+       "unite": "1. TEMA: SÖZÜN İNCELİĞİ",
+       "konu": "YAZMA • Okuduğu şiiri bir betimleme paragrafı olarak yazabilme",
+       "kod": "TDE4.1",
+       "metin": "Edebî söyleyişin inceliğini yansıtmak için paragraf düzeyindeki bir yazısında süreci yönetebilme",
+       "sorular": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "1. TEMA: SÖZÜN İNCELİĞİ",
+       "konu": "YAZMA • Okuduğu şiiri bir betimleme paragrafı olarak yazabilme",
+       "kod": "TDE4.2",
+       "metin": "Edebî söyleyişin inceliğini yansıtan metinlerden edindiği söz varlığını kullanarak yazısına içerik oluşturabilme",
+       "sorular": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "1. TEMA: SÖZÜN İNCELİĞİ",
+       "konu": "YAZMA • Okuduğu şiiri bir betimleme paragrafı olarak yazabilme",
+       "kod": "TDE4.3",
+       "metin": "Edebî söyleyişin inceliğini yansıttığı yazısında kural uygulayabilme",
+       "sorular": [
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "1. TEMA: SÖZÜN İNCELİĞİ",
+       "konu": "YAZMA • Okuduğu şiiri bir betimleme paragrafı olarak yazabilme",
+       "kod": "TDE4.4",
+       "metin": "Edebî söyleyişin inceliğini yansıttığı yazısında yazma sürecini değerlendirebilme",
+       "sorular": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "2. TEMA: ANLAM ARAYIŞI",
+       "konu": "OKUMA • Tema içeriğine uygun bir hikâye • Tema içeriğine uygun bir anı",
+       "kod": "TDE2.1",
+       "metin": "“Anlam Arayışı” temasında ele alınan metinlerde okumayı yönetebilme",
+       "sorular": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "2. TEMA: ANLAM ARAYIŞI",
+       "konu": "OKUMA • Tema içeriğine uygun bir hikâye • Tema içeriğine uygun bir anı",
+       "kod": "TDE2.2",
+       "metin": "“Anlam Arayışı” temasında ele alınan metinlerde anlam oluşturabilme",
+       "sorular": [
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "tarih": "2026-11-11"
+    },
+    {
+     "ad": "1. Dönem 2. Yazılı",
+     "senaryolar": [
+      "Senaryo 1",
+      "Senaryo 2",
+      "Senaryo 3",
+      "Senaryo 4"
+     ],
+     "kazanimlar": [
+      {
+       "unite": "1. TEMA: SÖZÜN İNCELİĞİ",
+       "konu": "OKUMA • Tema içeriğine uygun bir şiir • Tema içeriğine uygun bir deneme",
+       "kod": "TDE2.1",
+       "metin": "“Sözün İnceliği” temasında ele alınan metinlerde okumayı yönetebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "1. TEMA: SÖZÜN İNCELİĞİ",
+       "konu": "OKUMA • Tema içeriğine uygun bir şiir • Tema içeriğine uygun bir deneme",
+       "kod": "TDE2.2",
+       "metin": "“Sözün İnceliği” temasında ele alınan metinlerde anlam oluşturabilme",
+       "sorular": [
+        2,
+        1,
+        2,
+        1
+       ]
+      },
+      {
+       "unite": "1. TEMA: SÖZÜN İNCELİĞİ",
+       "konu": "YAZMA • Okuduğu şiiri bir betimleme paragrafı olarak yazabilme",
+       "kod": "TDE4.1",
+       "metin": "Edebî söyleyişin inceliğini yansıtmak için paragraf düzeyindeki bir yazısında süreci yönetebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "1. TEMA: SÖZÜN İNCELİĞİ",
+       "konu": "YAZMA • Okuduğu şiiri bir betimleme paragrafı olarak yazabilme",
+       "kod": "TDE4.2",
+       "metin": "Edebî söyleyişin inceliğini yansıtan metinlerden edindiği söz varlığını kullanarak yazısına içerik oluşturabilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "1. TEMA: SÖZÜN İNCELİĞİ",
+       "konu": "YAZMA • Okuduğu şiiri bir betimleme paragrafı olarak yazabilme",
+       "kod": "TDE4.3",
+       "metin": "Edebî söyleyişin inceliğini yansıttığı yazısında kural uygulayabilme",
+       "sorular": [
+        1,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "1. TEMA: SÖZÜN İNCELİĞİ",
+       "konu": "YAZMA • Okuduğu şiiri bir betimleme paragrafı olarak yazabilme",
+       "kod": "TDE4.4",
+       "metin": "Edebî söyleyişin inceliğini yansıttığı yazısında yazma sürecini değerlendirebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "2. TEMA: ANLAM ARAYIŞI",
+       "konu": "OKUMA • Tema içeriğine uygun bir hikâye • Tema içeriğine uygun bir anı",
+       "kod": "TDE2.1",
+       "metin": "“Anlam Arayışı” temasında ele alınan metinlerde okumayı yönetebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "2. TEMA: ANLAM ARAYIŞI",
+       "konu": "OKUMA • Tema içeriğine uygun bir hikâye • Tema içeriğine uygun bir anı",
+       "kod": "TDE2.2",
+       "metin": "“Anlam Arayışı” temasında ele alınan metinlerde anlam oluşturabilme",
+       "sorular": [
+        3,
+        4,
+        4,
+        5
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "matematik",
+   "ad": "Matematik",
+   "sinavlar": [
+    {
+     "ad": "1. Dönem 1. Yazılı",
+     "senaryolar": [
+      "Senaryo 1",
+      "Senaryo 2",
+      "Senaryo 3",
+      "Senaryo 4"
+     ],
+     "kazanimlar": [
+      {
+       "unite": "SAYILAR",
+       "konu": "Gerçek Sayıların Üslü ve Köklü Gösterimleri ile Yapılan İşlemler",
+       "kod": "9.1.1",
+       "metin": "Gerçek sayıların üslü ve köklü gösterimleriyle yapılan işlemlere dair muhakeme yapabilme",
+       "sorular": [
+        3,
+        2,
+        2,
+        3
+       ]
+      },
+      {
+       "unite": "SAYILAR",
+       "konu": "Gerçek Sayı Aralıklarının Gösterimi ve Aralıklarla İlgili İşlemlerde Küme Sembollerinin Kullanımı",
+       "kod": "9.1.2",
+       "metin": "Gerçek sayı aralıklarının gösteriminde ve aralıklarla ilgili işlemlerde küme sembol ve işlemlerinden yararlanabilme",
+       "sorular": [
+        2,
+        1,
+        2,
+        1
+       ]
+      },
+      {
+       "unite": "SAYILAR",
+       "konu": "Sayı Kümeleri ve İşlem Özellikleri",
+       "kod": "9.1.3",
+       "metin": "Farklı sayı kümelerinin özellikleri hakkında muhakeme yapabilme",
+       "sorular": [
+        1,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "SAYILAR",
+       "konu": "Gerçek Sayıların İşlem Özelliklerini Cebirsel Olarak İfade Etme",
+       "kod": "9.1.4",
+       "metin": "Gerçek sayıların işlem özelliklerini cebirsel olarak ifade etmede analojik akıl yürütebilme",
+       "sorular": [
+        2,
+        1,
+        2,
+        2
+       ]
+      },
+      {
+       "unite": "NİCELİKLER VE DEĞİŞİMLER",
+       "konu": "Doğrusal Fonksiyonlar ve Nitel Özellikleri",
+       "kod": "9.2.1",
+       "metin": "Gerçek sayılarda f(x) = x şeklinde tanımlı doğrusal referans fonksiyonun nitel özellikleri ile bu fonksiyondan türetilen g(x) = a ∙ f(x ± r) ± k, (a, r, k ∈ ℝ, a≠0) doğrusal fonksiyonların nitel özelliklerine ilişkin matematiksel muhakeme yapabilme",
+       "sorular": [
+        0,
+        1,
+        2,
+        0
+       ]
+      }
+     ],
+     "tarih": "2026-11-05"
+    },
+    {
+     "ad": "1. Dönem 2. Yazılı",
+     "senaryolar": [],
+     "kazanimlar": [
+      {
+       "unite": "SAYILAR",
+       "konu": "Gerçek Sayıların Üslü ve Köklü Gösterimleri ile Yapılan İşlemler",
+       "kod": "9.1.1",
+       "metin": "Gerçek sayıların üslü ve köklü gösterimleriyle yapılan işlemlere dair muhakeme yapabilme",
+       "sorular": []
+      },
+      {
+       "unite": "SAYILAR",
+       "konu": "Gerçek Sayı Aralıklarının Gösterimi ve Aralıklarla İlgili İşlemlerde Küme Sembollerinin Kullanımı",
+       "kod": "9.1.2",
+       "metin": "Gerçek sayı aralıklarının gösteriminde ve aralıklarla ilgili işlemlerde küme sembol ve işlemlerinden yararlanabilme",
+       "sorular": []
+      },
+      {
+       "unite": "SAYILAR",
+       "konu": "Sayı Kümeleri ve İşlem Özellikleri",
+       "kod": "9.1.3",
+       "metin": "Farklı sayı kümelerinin özellikleri hakkında muhakeme yapabilme",
+       "sorular": []
+      },
+      {
+       "unite": "SAYILAR",
+       "konu": "Gerçek Sayıların İşlem Özelliklerini Cebirsel Olarak İfade Etme",
+       "kod": "9.1.4",
+       "metin": "Gerçek sayıların işlem özelliklerini cebirsel olarak ifade etmede analojik akıl yürütebilme",
+       "sorular": []
+      },
+      {
+       "unite": "NİCELİKLER VE DEĞİŞİMLER",
+       "konu": "Doğrusal Fonksiyonlar ve Nitel Özellikleri",
+       "kod": "9.2.1",
+       "metin": "Gerçek sayılarda f(x) = x şeklinde tanımlı doğrusal referans fonksiyonun nitel özellikleri ile bu fonksiyondan türetilen g(x) = a ∙ f(x ± r) ± k, (a, r, k ∈ ℝ, a≠0) doğrusal fonksiyonların nitel özelliklerine ilişkin matematiksel muhakeme yapabilme",
+       "sorular": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fizik",
+   "ad": "Fizik",
+   "sinavlar": [
+    {
+     "ad": "1. Dönem 1. Yazılı",
+     "senaryolar": [
+      "Senaryo 1",
+      "Senaryo 2",
+      "Senaryo 3",
+      "Senaryo 4",
+      "Senaryo 5"
+     ],
+     "kazanimlar": [
+      {
+       "unite": "FİZİK BİLİMİ VE KARİYER KEŞFİ",
+       "konu": "Fizik Bilimi",
+       "kod": "FİZ.9.1.1",
+       "metin": "Fizik biliminin tanımına yönelik tümevarımsal akıl yürütebilme",
+       "sorular": [
+        1,
+        1,
+        0,
+        1,
+        0
+       ]
+      },
+      {
+       "unite": "FİZİK BİLİMİ VE KARİYER KEŞFİ",
+       "konu": "Fizik Biliminin Alt Dalları",
+       "kod": "FİZ.9.1.2",
+       "metin": "Fizik biliminin alt dallarını sınıflandırabilme",
+       "sorular": [
+        1,
+        2,
+        2,
+        2,
+        1
+       ]
+      },
+      {
+       "unite": "FİZİK BİLİMİ VE KARİYER KEŞFİ",
+       "konu": "Fizik Bilimine Yön Verenler",
+       "kod": "FİZ.9.1.3",
+       "metin": "Fizik bilimine katkıda bulunmuş bilim insanlarının deneyimlerini yansıtabilme",
+       "sorular": [
+        1,
+        0,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "FİZİK BİLİMİ VE KARİYER KEŞFİ",
+       "konu": "Fizik Bilimi İle İlgili Kariyer Keşfi",
+       "kod": "FİZ.9.1.4",
+       "metin": "Bilim ve teknoloji alanında faaliyet gösteren kurum veya kuruluşlarda fizik bilimi ile ilişkili kariyer olanaklarını sorgulayabilme",
+       "sorular": [
+        1,
+        1,
+        1,
+        1,
+        0
+       ]
+      },
+      {
+       "unite": "KUVVET VE HAREKET",
+       "konu": "Temel ve Türetilmiş Nicelikler",
+       "kod": "FİZ.9.2.1",
+       "metin": "Birimleri SI birim sisteminde verilen temel ve türetilmiş nicelikleri sınıflandırabilme",
+       "sorular": [
+        1,
+        1,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "KUVVET VE HAREKET",
+       "konu": "Skaler ve Vektörel Nicelikler",
+       "kod": "FİZ.9.2.2",
+       "metin": "Skaler ve vektörel nicelikleri karşılaştırabilme",
+       "sorular": [
+        1,
+        1,
+        1,
+        0,
+        1
+       ]
+      },
+      {
+       "unite": "KUVVET VE HAREKET",
+       "konu": "Vektörler",
+       "kod": "FİZ.9.2.3",
+       "metin": "Aynı doğrultu üzerinde yer alan farklı vektörlerin yön ve büyüklüklerine yönelik bilimsel çıkarım yapabilme",
+       "sorular": [
+        1,
+        1,
+        0,
+        0,
+        1
+       ]
+      },
+      {
+       "unite": "KUVVET VE HAREKET",
+       "konu": "Vektörler",
+       "kod": "FİZ.9.2.4",
+       "metin": "Vektörlerin toplanmasında kullanılan uç uca ekleme ve paralelkenar yöntemi ile bileşenlerine ayırma işlemine ilişkin tümevarımsal akıl yürütebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "KUVVET VE HAREKET",
+       "konu": "Doğadaki Temel Kuvvetler",
+       "kod": "FİZ.9.2.5",
+       "metin": "Doğadaki temel kuvvetleri karşılaştırabilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "KUVVET VE HAREKET",
+       "konu": "Hareket ve Hareket Türleri",
+       "kod": "FİZ.9.2.6",
+       "metin": "Hareketin temel kavramlarının tanımlarına yönelik tümevarımsal akıl yürütebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "KUVVET VE HAREKET",
+       "konu": "Hareket ve Hareket Türleri",
+       "kod": "FİZ.9.2.7",
+       "metin": "Hareket türlerini sınıflandırabilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "tarih": "2026-11-06"
+    },
+    {
+     "ad": "1. Dönem 2. Yazılı",
+     "senaryolar": [
+      "Senaryo 1",
+      "Senaryo 2",
+      "Senaryo 3",
+      "Senaryo 4",
+      "Senaryo 5"
+     ],
+     "kazanimlar": [
+      {
+       "unite": "FİZİK BİLİMİ VE KARİYER KEŞFİ",
+       "konu": "Fizik Bilimi",
+       "kod": "FİZ.9.1.1",
+       "metin": "Fizik biliminin tanımına yönelik tümevarımsal akıl yürütebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "FİZİK BİLİMİ VE KARİYER KEŞFİ",
+       "konu": "Fizik Biliminin Alt Dalları",
+       "kod": "FİZ.9.1.2",
+       "metin": "Fizik biliminin alt dallarını sınıflandırabilme",
+       "sorular": [
+        1,
+        0,
+        1,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "FİZİK BİLİMİ VE KARİYER KEŞFİ",
+       "konu": "Fizik Bilimine Yön Verenler",
+       "kod": "FİZ.9.1.3",
+       "metin": "Fizik bilimine katkıda bulunmuş bilim insanlarının deneyimlerini yansıtabilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "FİZİK BİLİMİ VE KARİYER KEŞFİ",
+       "konu": "Fizik Bilimi İle İlgili Kariyer Keşfi",
+       "kod": "FİZ.9.1.4",
+       "metin": "Bilim ve teknoloji alanında faaliyet gösteren kurum veya kuruluşlarda fizik bilimi ile ilişkili kariyer olanaklarını sorgulayabilme",
+       "sorular": [
+        0,
+        1,
+        0,
+        0,
+        1
+       ]
+      },
+      {
+       "unite": "KUVVET VE HAREKET",
+       "konu": "Temel ve Türetilmiş Nicelikler",
+       "kod": "FİZ.9.2.1",
+       "metin": "Birimleri SI birim sisteminde verilen temel ve türetilmiş nicelikleri sınıflandırabilme",
+       "sorular": [
+        0,
+        0,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "KUVVET VE HAREKET",
+       "konu": "Skaler ve Vektörel Nicelikler",
+       "kod": "FİZ.9.2.2",
+       "metin": "Skaler ve vektörel nicelikleri karşılaştırabilme",
+       "sorular": [
+        0,
+        0,
+        1,
+        1,
+        0
+       ]
+      },
+      {
+       "unite": "KUVVET VE HAREKET",
+       "konu": "Vektörler",
+       "kod": "FİZ.9.2.3",
+       "metin": "Aynı doğrultu üzerinde yer alan farklı vektörlerin yön ve büyüklüklerine yönelik bilimsel çıkarım yapabilme",
+       "sorular": [
+        1,
+        1,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "KUVVET VE HAREKET",
+       "konu": "Vektörler",
+       "kod": "FİZ.9.2.4",
+       "metin": "Vektörlerin toplanmasında kullanılan uç uca ekleme ve paralelkenar yöntemi ile bileşenlerine ayırma işlemine ilişkin tümevarımsal akıl yürütebilme",
+       "sorular": [
+        1,
+        1,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "KUVVET VE HAREKET",
+       "konu": "Doğadaki Temel Kuvvetler",
+       "kod": "FİZ.9.2.5",
+       "metin": "Doğadaki temel kuvvetleri karşılaştırabilme",
+       "sorular": [
+        1,
+        1,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "KUVVET VE HAREKET",
+       "konu": "Hareket ve Hareket Türleri",
+       "kod": "FİZ.9.2.6",
+       "metin": "Hareketin temel kavramlarının tanımlarına yönelik tümevarımsal akıl yürütebilme",
+       "sorular": [
+        1,
+        2,
+        1,
+        2,
+        2
+       ]
+      },
+      {
+       "unite": "KUVVET VE HAREKET",
+       "konu": "Hareket ve Hareket Türleri",
+       "kod": "FİZ.9.2.7",
+       "metin": "Hareket türlerini sınıflandırabilme",
+       "sorular": [
+        1,
+        1,
+        0,
+        0,
+        1
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kimya",
+   "ad": "Kimya",
+   "sinavlar": [
+    {
+     "ad": "1. Dönem 1. Yazılı",
+     "senaryolar": [
+      "Senaryo 1",
+      "Senaryo 2",
+      "Senaryo 3",
+      "Senaryo 4",
+      "Senaryo 5"
+     ],
+     "kazanimlar": [
+      {
+       "unite": "ETKİLEŞİM",
+       "konu": "Kimya Hayattır",
+       "kod": "KİM.9.1.1",
+       "metin": "Kimya biliminin günlük hayata katkısına ilişkin bilimsel çıkarım yapabilme",
+       "sorular": [
+        0,
+        1,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "ETKİLEŞİM",
+       "konu": "Kimya Hayattır",
+       "kod": "KİM.9.1.2",
+       "metin": "Farklı ortamlarda kimyasal maddelerin kullanımından kaynaklanan problemleri çözebilme",
+       "sorular": [
+        1,
+        0,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "ETKİLEŞİM",
+       "konu": "Atomdan Periyodik Tabloya",
+       "kod": "KİM.9.1.3",
+       "metin": "Atom teorilerindeki varsayımları kullanarak bilimsel bilginin değişebilirliğine ilişkin bilimsel çıkarım yapabilme",
+       "sorular": [
+        2,
+        2,
+        2,
+        2,
+        2
+       ]
+      },
+      {
+       "unite": "ETKİLEŞİM",
+       "konu": "Atomdan Periyodik Tabloya",
+       "kod": "KİM.9.1.4",
+       "metin": "Atom orbitallerinin bağıl enerjilerine ilişkin bilimsel veriye dayalı tahminde bulunabilme",
+       "sorular": [
+        2,
+        2,
+        2,
+        1,
+        2
+       ]
+      },
+      {
+       "unite": "ETKİLEŞİM",
+       "konu": "Atomdan Periyodik Tabloya",
+       "kod": "KİM.9.1.5",
+       "metin": "Elektronların atom orbitallerine yerleşimine ilişkin tümevarımsal akıl yürütebilme",
+       "sorular": [
+        1,
+        1,
+        0,
+        0,
+        1
+       ]
+      },
+      {
+       "unite": "ETKİLEŞİM",
+       "konu": "Atomdan Periyodik Tabloya",
+       "kod": "KİM.9.1.6",
+       "metin": "Elementlerin periyodik tablodaki yerlerine ilişkin tümevarımsal akıl yürütebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "ETKİLEŞİM",
+       "konu": "Atomdan Periyodik Tabloya",
+       "kod": "KİM.9.1.7",
+       "metin": "İyon oluşumuna ilişkin tümevarımsal akıl yürütebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "ETKİLEŞİM",
+       "konu": "Atomdan Periyodik Tabloya",
+       "kod": "KİM.9.1.8",
+       "metin": "Elementlerin periyodik özelliklerinin periyodik tablodaki değişimini çözümleyebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "ÇEŞİTLİLİK",
+       "konu": "Etkileşimler",
+       "kod": "KİM.9.2.1",
+       "metin": "Metalik bağın oluşumuna yönelik tümevarımsal akıl yürütebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "ÇEŞİTLİLİK",
+       "konu": "Etkileşimler",
+       "kod": "KİM.9.2.2",
+       "metin": "İyonik bağın oluşumunu bilimsel gözleme dayalı tahmin edebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "ÇEŞİTLİLİK",
+       "konu": "Etkileşimler",
+       "kod": "KİM.9.2.3",
+       "metin": "Kovalent bağ oluşumunu bilimsel gözleme dayalı tahmin edebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "tarih": "2026-11-04"
+    },
+    {
+     "ad": "1. Dönem 2. Yazılı",
+     "senaryolar": [
+      "Senaryo 1",
+      "Senaryo 2",
+      "Senaryo 3",
+      "Senaryo 4",
+      "Senaryo 5",
+      "Senaryo 6",
+      "Senaryo 7",
+      "Senaryo 8",
+      "Senaryo 9"
+     ],
+     "kazanimlar": [
+      {
+       "unite": "ETKİLEŞİM",
+       "konu": "Kimya Hayattır",
+       "kod": "KİM.9.1.1",
+       "metin": "Kimya biliminin günlük hayata katkısına ilişkin bilimsel çıkarım yapabilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "ETKİLEŞİM",
+       "konu": "Kimya Hayattır",
+       "kod": "KİM.9.1.2",
+       "metin": "Farklı ortamlarda kimyasal maddelerin kullanımından kaynaklanan problemleri çözebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "ETKİLEŞİM",
+       "konu": "Atomdan Periyodik Tabloya",
+       "kod": "KİM.9.1.3",
+       "metin": "Atom teorilerindeki varsayımları kullanarak bilimsel bilginin değişebilirliğine ilişkin bilimsel çıkarım yapabilme",
+       "sorular": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "ETKİLEŞİM",
+       "konu": "Atomdan Periyodik Tabloya",
+       "kod": "KİM.9.1.4",
+       "metin": "Atom orbitallerinin bağıl enerjilerine ilişkin bilimsel veriye dayalı tahminde bulunabilme",
+       "sorular": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+       ]
+      },
+      {
+       "unite": "ETKİLEŞİM",
+       "konu": "Atomdan Periyodik Tabloya",
+       "kod": "KİM.9.1.5",
+       "metin": "Elektronların atom orbitallerine yerleşimine ilişkin tümevarımsal akıl yürütebilme",
+       "sorular": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0
+       ]
+      },
+      {
+       "unite": "ETKİLEŞİM",
+       "konu": "Atomdan Periyodik Tabloya",
+       "kod": "KİM.9.1.6",
+       "metin": "Elementlerin periyodik tablodaki yerlerine ilişkin tümevarımsal akıl yürütebilme",
+       "sorular": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "ETKİLEŞİM",
+       "konu": "Atomdan Periyodik Tabloya",
+       "kod": "KİM.9.1.7",
+       "metin": "İyon oluşumuna ilişkin tümevarımsal akıl yürütebilme",
+       "sorular": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "ETKİLEŞİM",
+       "konu": "Atomdan Periyodik Tabloya",
+       "kod": "KİM.9.1.8",
+       "metin": "Elementlerin periyodik özelliklerinin periyodik tablodaki değişimini çözümleyebilme",
+       "sorular": [
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        1,
+        2,
+        2
+       ]
+      },
+      {
+       "unite": "ÇEŞİTLİLİK",
+       "konu": "Etkileşimler",
+       "kod": "KİM.9.2.1",
+       "metin": "Metalik bağın oluşumuna yönelik tümevarımsal akıl yürütebilme",
+       "sorular": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "ÇEŞİTLİLİK",
+       "konu": "Etkileşimler",
+       "kod": "KİM.9.2.2",
+       "metin": "İyonik bağın oluşumunu bilimsel gözleme dayalı tahmin edebilme",
+       "sorular": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+       ]
+      },
+      {
+       "unite": "ÇEŞİTLİLİK",
+       "konu": "Etkileşimler",
+       "kod": "KİM.9.2.3",
+       "metin": "Kovalent bağ oluşumunu bilimsel gözleme dayalı tahmin edebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "biyoloji",
+   "ad": "Biyoloji",
+   "sinavlar": [
+    {
+     "ad": "1. Dönem 1. Yazılı",
+     "senaryolar": [
+      "Senaryo 1",
+      "Senaryo 2",
+      "Senaryo 3",
+      "Senaryo 4"
+     ],
+     "kazanimlar": [
+      {
+       "unite": "YAŞAM",
+       "konu": "Biyolojinin Önemi, Biyoloji Biliminin Gelişimindeki Dönüm Noktaları",
+       "kod": "BİY.9.1.1",
+       "metin": "Biyolojideki dönüm noktalarının insan hayatına katkılarını sorgulayabilme",
+       "sorular": [
+        2,
+        1,
+        1,
+        3
+       ]
+      },
+      {
+       "unite": "YAŞAM",
+       "konu": "Bilimin Doğası, Bilimsel Araştırma Süreçleri",
+       "kod": "BİY.9.1.2",
+       "metin": "Bilimsel araştırma süreçlerinde bilimin doğasını yorumlayabilme",
+       "sorular": [
+        3,
+        3,
+        2,
+        3
+       ]
+      },
+      {
+       "unite": "YAŞAM",
+       "konu": "Bilim Etiği",
+       "kod": "BİY.9.1.3",
+       "metin": "Bilimsel araştırmaların bilim etiğine uygunluğu ile ilgili bilgi toplayabilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "YAŞAM",
+       "konu": "Hücresel Yapı, Organizasyon, Beslenme, Enerji Üretimi ve Tüketimi, Boşaltım, Büyüme ve Gelişme, Metabolizma, Uyarılara Tepki, Homeostazi, Üreme, Varyasyon ve Adaptasyon",
+       "kod": "BİY.9.1.4",
+       "metin": "Çevresindeki canlıların özelliklerini bilimsel olarak gözlemleyebilme",
+       "sorular": [
+        0,
+        2,
+        2,
+        0
+       ]
+      },
+      {
+       "unite": "YAŞAM",
+       "konu": "İnorganik Moleküller (Su, Mineraller)",
+       "kod": "BİY.9.1.5",
+       "metin": "İnorganik moleküllerin önemi hakkında bilimsel çıkarım yapabilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "YAŞAM",
+       "konu": "Organik Moleküller (Karbohidratlar [Monosakkaritler (Riboz, Deoksiriboz, Fruktoz, Glikoz, Galaktoz)], Disakkaritler (Sükroz, Maltoz, Laktoz), Polisakkaritler (Glikojen, Nişasta, Selüloz, Kitin), Lipitler (Yağ Asitleri, Trigliseritler, Fosfolipitler, Steroitler), Proteinler (Amino Asitlerin Yapısı, Enzimler (Basit ve Bileşik Enzimler, Aktivasyon Enerjisi, Enzim-Substrat İlişkisi, Enzimatik Reaksiyonlara Etki Eden Faktörler), Nükleik Asitler (DNA ve RNA’nın Yapısı), Vitaminler (Yağda Çözünen Vitaminler, Suda Çözünen Vitaminler)",
+       "kod": "BİY.9.1.6",
+       "metin": "Organik moleküllerin yapısı ve çeşitleriyle ilgili bilgi toplayabilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "tarih": "2026-11-03"
+    },
+    {
+     "ad": "1. Dönem 2. Yazılı",
+     "senaryolar": [
+      "Senaryo 1",
+      "Senaryo 2",
+      "Senaryo 3",
+      "Senaryo 4"
+     ],
+     "kazanimlar": [
+      {
+       "unite": "YAŞAM",
+       "konu": "Biyolojinin Önemi, Biyoloji Biliminin Gelişimindeki Dönüm Noktaları",
+       "kod": "BİY.9.1.1",
+       "metin": "Biyolojideki dönüm noktalarının insan hayatına katkılarını sorgulayabilme",
+       "sorular": [
+        1,
+        0,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "YAŞAM",
+       "konu": "Bilimin Doğası, Bilimsel Araştırma Süreçleri",
+       "kod": "BİY.9.1.2",
+       "metin": "Bilimsel araştırma süreçlerinde bilimin doğasını yorumlayabilme",
+       "sorular": [
+        1,
+        2,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "YAŞAM",
+       "konu": "Bilim Etiği",
+       "kod": "BİY.9.1.3",
+       "metin": "Bilimsel araştırmaların bilim etiğine uygunluğu ile ilgili bilgi toplayabilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "YAŞAM",
+       "konu": "Hücresel Yapı, Organizasyon, Beslenme, Enerji Üretimi ve Tüketimi, Boşaltım, Büyüme ve Gelişme, Metabolizma, Uyarılara Tepki, Homeostazi, Üreme, Varyasyon ve Adaptasyon",
+       "kod": "BİY.9.1.4",
+       "metin": "Çevresindeki canlıların özelliklerini bilimsel olarak gözlemleyebilme",
+       "sorular": [
+        1,
+        3,
+        2,
+        3
+       ]
+      },
+      {
+       "unite": "YAŞAM",
+       "konu": "İnorganik Moleküller (Su, Mineraller)",
+       "kod": "BİY.9.1.5",
+       "metin": "İnorganik moleküllerin önemi hakkında bilimsel çıkarım yapabilme",
+       "sorular": [
+        3,
+        2,
+        3,
+        2
+       ]
+      },
+      {
+       "unite": "YAŞAM",
+       "konu": "Organik Moleküller (Karbohidratlar [Monosakkaritler (Riboz, Deoksiriboz, Fruktoz, Glikoz, Galaktoz)], Disakkaritler (Sükroz, Maltoz, Laktoz), Polisakkaritler (Glikojen, Nişasta, Selüloz, Kitin), Lipitler (Yağ Asitleri, Trigliseritler, Fosfolipitler, Steroitler), Proteinler (Amino Asitlerin Yapısı, Enzimler (Basit ve Bileşik Enzimler, Aktivasyon Enerjisi, Enzim-Substrat İlişkisi, Enzimatik Reaksiyonlara Etki Eden Faktörler), Nükleik Asitler (DNA ve RNA’nın Yapısı), Vitaminler (Yağda Çözünen Vitaminler, Suda Çözünen Vitaminler)",
+       "kod": "BİY.9.1.6",
+       "metin": "Organik moleküllerin yapısı ve çeşitleriyle ilgili bilgi toplayabilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tarih",
+   "ad": "Tarih",
+   "sinavlar": [
+    {
+     "ad": "1. Dönem 1. Yazılı",
+     "senaryolar": [
+      "Senaryo 1",
+      "Senaryo 2",
+      "Senaryo 3",
+      "Senaryo 4",
+      "Senaryo 5",
+      "Senaryo 6"
+     ],
+     "kazanimlar": [
+      {
+       "unite": "1. ÜNİTE: GEÇMİŞİN İNŞA SÜRECİNDE TARİH",
+       "konu": "Tarih Öğrenmenin Faydaları",
+       "kod": "TAR.9.1.1",
+       "metin": "Tarih öğrenmenin bireye ve topluma faydalarını yorumlayabilme",
+       "sorular": [
+        3,
+        2,
+        2,
+        2,
+        1,
+        3
+       ]
+      },
+      {
+       "unite": "1. ÜNİTE: GEÇMİŞİN İNŞA SÜRECİNDE TARİH",
+       "konu": "Tarihin Doğası",
+       "kod": "TAR.9.1.2",
+       "metin": "Tarihin doğasını farklı kaynaklar üzerinden inceleyebilme",
+       "sorular": [
+        2,
+        2,
+        2,
+        3,
+        2,
+        3
+       ]
+      },
+      {
+       "unite": "1. ÜNİTE: GEÇMİŞİN İNŞA SÜRECİNDE TARİH",
+       "konu": "Tarihsel Bilginin Üretim Süreci",
+       "kod": "TAR.9.1.3",
+       "metin": "Tarihsel bilginin üretim sürecini çözümleyebilme",
+       "sorular": [
+        2,
+        2,
+        3,
+        2,
+        3,
+        0
+       ]
+      },
+      {
+       "unite": "1. ÜNİTE: GEÇMİŞİN İNŞA SÜRECİNDE TARİH",
+       "konu": "Tarih Araştırma ve Yazımında Dijitalleşme",
+       "kod": "TAR.9.1.4",
+       "metin": "Dijitalleşmenin tarih araştırma ve yazımının dönüşümüne etkisini değerlendirebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "2. ÜNİTE: ESKİ ÇAĞ MEDENİYETLERİ",
+       "konu": "Tarım Devrimi’nin Eski Çağ Medeniyetlerindeki Yerleşmeye ve Ekonomiye Etkisi",
+       "kod": "TAR.9.2.1",
+       "metin": "Tarım Devrimi’nin Eski Çağ medeniyetlerindeki yerleşmeye ve ekonomik faaliyetlere etkisini değerlendirebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "2. ÜNİTE: ESKİ ÇAĞ MEDENİYETLERİ",
+       "konu": "Eski Çağ Medeniyetlerinde Yönetim ve Ordu",
+       "kod": "TAR.9.2.2",
+       "metin": "Eski Çağ’daki farklı medeniyetlerin yönetim ve ordu sistemlerini özetleyebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "tarih": "2026-11-04"
+    },
+    {
+     "ad": "1. Dönem 2. Yazılı",
+     "senaryolar": [
+      "Senaryo 1",
+      "Senaryo 2",
+      "Senaryo 3",
+      "Senaryo 4",
+      "Senaryo 5",
+      "Senaryo 6"
+     ],
+     "kazanimlar": [
+      {
+       "unite": "1. ÜNİTE: GEÇMİŞİN İNŞA SÜRECİNDE TARİH",
+       "konu": "Tarih Öğrenmenin Faydaları",
+       "kod": "TAR.9.1.1",
+       "metin": "Tarih öğrenmenin bireye ve topluma faydalarını yorumlayabilme",
+       "sorular": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "1. ÜNİTE: GEÇMİŞİN İNŞA SÜRECİNDE TARİH",
+       "konu": "Tarihin Doğası",
+       "kod": "TAR.9.1.2",
+       "metin": "Tarihin doğasını farklı kaynaklar üzerinden inceleyebilme",
+       "sorular": [
+        0,
+        1,
+        0,
+        1,
+        1,
+        0
+       ]
+      },
+      {
+       "unite": "1. ÜNİTE: GEÇMİŞİN İNŞA SÜRECİNDE TARİH",
+       "konu": "Tarihsel Bilginin Üretim Süreci",
+       "kod": "TAR.9.1.3",
+       "metin": "Tarihsel bilginin üretim sürecini çözümleyebilme",
+       "sorular": [
+        0,
+        1,
+        1,
+        0,
+        1,
+        2
+       ]
+      },
+      {
+       "unite": "1. ÜNİTE: GEÇMİŞİN İNŞA SÜRECİNDE TARİH",
+       "konu": "Tarih Araştırma ve Yazımında Dijitalleşme",
+       "kod": "TAR.9.1.4",
+       "metin": "Dijitalleşmenin tarih araştırma ve yazımının dönüşümüne etkisini değerlendirebilme",
+       "sorular": [
+        2,
+        0,
+        1,
+        1,
+        1,
+        2
+       ]
+      },
+      {
+       "unite": "2. ÜNİTE: ESKİ ÇAĞ MEDENİYETLERİ",
+       "konu": "Tarım Devrimi’nin Eski Çağ Medeniyetlerindeki Yerleşmeye ve Ekonomiye Etkisi",
+       "kod": "TAR.9.2.1",
+       "metin": "Tarım Devrimi’nin Eski Çağ medeniyetlerindeki yerleşmeye ve ekonomik faaliyetlere etkisini değerlendirebilme",
+       "sorular": [
+        2,
+        2,
+        2,
+        1,
+        1,
+        2
+       ]
+      },
+      {
+       "unite": "2. ÜNİTE: ESKİ ÇAĞ MEDENİYETLERİ",
+       "konu": "Eski Çağ Medeniyetlerinde Yönetim ve Ordu",
+       "kod": "TAR.9.2.2",
+       "metin": "Eski Çağ’daki farklı medeniyetlerin yönetim ve ordu sistemlerini özetleyebilme",
+       "sorular": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        0
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cografya",
+   "ad": "Coğrafya",
+   "sinavlar": [
+    {
+     "ad": "1. Dönem 1. Yazılı",
+     "senaryolar": [
+      "Senaryo 1",
+      "Senaryo 2",
+      "Senaryo 3",
+      "Senaryo 4",
+      "Senaryo 5",
+      "Senaryo 6"
+     ],
+     "kazanimlar": [
+      {
+       "unite": "COĞRAFYANIN DOĞASI",
+       "konu": "Coğrafya Biliminin Konusu ve Bölümleri",
+       "kod": "COĞ.9.1.1",
+       "metin": "Coğrafya biliminin konusu ve bölümlerini çözümleyebilme",
+       "sorular": [
+        1,
+        2,
+        2,
+        1,
+        2,
+        1
+       ]
+      },
+      {
+       "unite": "COĞRAFYANIN DOĞASI",
+       "konu": "Niçin Coğrafya Öğrenmeliyiz?",
+       "kod": "COĞ.9.1.2",
+       "metin": "Örnek olay, olgu veya konu üzerinden mekânsal düşünme ile coğrafya öğrenmenin önemini çözümleyebilme",
+       "sorular": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "COĞRAFYANIN DOĞASI",
+       "konu": "Coğrafya Biliminin Gelişimi",
+       "kod": "COĞ.9.1.3",
+       "metin": "Coğrafya biliminin gelişimi hakkında bilgi toplayabilme",
+       "sorular": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "MEKÂNSAL BİLGİ TEKNOLOJİLERİ",
+       "konu": "Mekânın Aynası Haritalar",
+       "kod": "COĞ.9.2.1",
+       "metin": "Harita uygulamaları yapabilme",
+       "sorular": [
+        1,
+        2,
+        2,
+        1,
+        1,
+        2
+       ]
+      },
+      {
+       "unite": "MEKÂNSAL BİLGİ TEKNOLOJİLERİ",
+       "konu": "Türkiye’nin Coğrafi Konumu",
+       "kod": "COĞ.9.2.2",
+       "metin": "Türkiye’nin konum özelliklerini algılayabilme",
+       "sorular": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "MEKÂNSAL BİLGİ TEKNOLOJİLERİ",
+       "konu": "Mekânsal Bilgi Teknolojilerinin Bileşenleri",
+       "kod": "COĞ.9.2.3",
+       "metin": "Mekânsal bilgi teknolojilerini oluşturan bileşenleri çözümleyebilme",
+       "sorular": [
+        1,
+        0,
+        1,
+        1,
+        1,
+        0
+       ]
+      },
+      {
+       "unite": "DOĞAL SİSTEMLER VE SÜREÇLER",
+       "konu": "Hava Olayları ve Günlük Hayata Etkileri",
+       "kod": "COĞ.9.3.1",
+       "metin": "Hava olaylarının günlük hayata etkisini gözleme dayalı tahmin edebilme",
+       "sorular": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+       ]
+      },
+      {
+       "unite": "DOĞAL SİSTEMLER VE SÜREÇLER",
+       "konu": "İklim Sisteminin Bileşen ve Değişkenleri",
+       "kod": "COĞ.9.3.2",
+       "metin": "İklim sisteminin bileşen ve değişkenlerini çözümleyebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "DOĞAL SİSTEMLER VE SÜREÇLER",
+       "konu": "İklim Türleri",
+       "kod": "COĞ.9.3.3",
+       "metin": "Türkiye ve dünyadaki farklı iklim türlerine sahip yerlerin iklim verilerini kullanarak tablo, grafik, şekil ve/veya diyagram hazırlayabilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "DOĞAL SİSTEMLER VE SÜREÇLER",
+       "konu": "İklim Sisteminde Yaşanan Değişiklikler",
+       "kod": "COĞ.9.3.4",
+       "metin": "İklim sistemi ve sürecinde meydana gelen değişiklikleri algılayabilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "tarih": "2026-11-10"
+    },
+    {
+     "ad": "1. Dönem 2. Yazılı",
+     "senaryolar": [
+      "Senaryo 1",
+      "Senaryo 2",
+      "Senaryo 3",
+      "Senaryo 4",
+      "Senaryo 5",
+      "Senaryo 6",
+      "Senaryo 7"
+     ],
+     "kazanimlar": [
+      {
+       "unite": "COĞRAFYANIN DOĞASI",
+       "konu": "Coğrafya Biliminin Konusu ve Bölümleri",
+       "kod": "COĞ.9.1.1",
+       "metin": "Coğrafya biliminin konusu ve bölümlerini çözümleyebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "COĞRAFYANIN DOĞASI",
+       "konu": "Niçin Coğrafya Öğrenmeliyiz?",
+       "kod": "COĞ.9.1.2",
+       "metin": "Örnek olay, olgu veya konu üzerinden mekânsal düşünme ile coğrafya öğrenmenin önemini çözümleyebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "COĞRAFYANIN DOĞASI",
+       "konu": "Coğrafya Biliminin Gelişimi",
+       "kod": "COĞ.9.1.3",
+       "metin": "Coğrafya biliminin gelişimi hakkında bilgi toplayabilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "MEKÂNSAL BİLGİ TEKNOLOJİLERİ",
+       "konu": "Mekânın Aynası Haritalar",
+       "kod": "COĞ.9.2.1",
+       "metin": "Harita uygulamaları yapabilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "MEKÂNSAL BİLGİ TEKNOLOJİLERİ",
+       "konu": "Türkiye’nin Coğrafi Konumu",
+       "kod": "COĞ.9.2.2",
+       "metin": "Türkiye’nin konum özelliklerini algılayabilme",
+       "sorular": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "MEKÂNSAL BİLGİ TEKNOLOJİLERİ",
+       "konu": "Mekânsal Bilgi Teknolojilerinin Bileşenleri",
+       "kod": "COĞ.9.2.3",
+       "metin": "Mekânsal bilgi teknolojilerini oluşturan bileşenleri çözümleyebilme",
+       "sorular": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "DOĞAL SİSTEMLER VE SÜREÇLER",
+       "konu": "Hava Olayları ve Günlük Hayata Etkileri",
+       "kod": "COĞ.9.3.1",
+       "metin": "Hava olaylarının günlük hayata etkisini gözleme dayalı tahmin edebilme",
+       "sorular": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "DOĞAL SİSTEMLER VE SÜREÇLER",
+       "konu": "İklim Sisteminin Bileşen ve Değişkenleri",
+       "kod": "COĞ.9.3.2",
+       "metin": "İklim sisteminin bileşen ve değişkenlerini çözümleyebilme",
+       "sorular": [
+        2,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2
+       ]
+      },
+      {
+       "unite": "DOĞAL SİSTEMLER VE SÜREÇLER",
+       "konu": "İklim Türleri",
+       "kod": "COĞ.9.3.3",
+       "metin": "Türkiye ve dünyadaki farklı iklim türlerine sahip yerlerin iklim verilerini kullanarak tablo, grafik, şekil ve/veya diyagram hazırlayabilme",
+       "sorular": [
+        1,
+        2,
+        1,
+        2,
+        2,
+        1,
+        0
+       ]
+      },
+      {
+       "unite": "DOĞAL SİSTEMLER VE SÜREÇLER",
+       "konu": "İklim Sisteminde Yaşanan Değişiklikler",
+       "kod": "COĞ.9.3.4",
+       "metin": "İklim sistemi ve sürecinde meydana gelen değişiklikleri algılayabilme",
+       "sorular": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        0,
+        0
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "din-kulturu",
+   "ad": "Din Kültürü ve Ahlak Bilgisi",
+   "sinavlar": [
+    {
+     "ad": "1. Dönem 1. Yazılı",
+     "senaryolar": [
+      "Senaryo 1",
+      "Senaryo 2",
+      "Senaryo 3",
+      "Senaryo 4",
+      "Senaryo 5"
+     ],
+     "kazanimlar": [
+      {
+       "unite": "ALLAH-İNSAN İLİŞKİSİ",
+       "konu": "İnsan ve İnsanın Yaratılışı",
+       "kod": "DKAB.9.1.1",
+       "metin": "İnsanın yaratılışını ve özelliklerini ayetlerden hareketle müşahede edebilme",
+       "sorular": [
+        1,
+        2,
+        1,
+        2,
+        2
+       ]
+      },
+      {
+       "unite": "ALLAH-İNSAN İLİŞKİSİ",
+       "konu": "Doğruyu Arayan Bir Varlık Olarak İnsan",
+       "kod": "DKAB.9.1.2",
+       "metin": "İnsanın doğruyu arayan bir varlık olarak bilgiye ulaşma yolları hakkında eleştirel düşünebilme",
+       "sorular": [
+        1,
+        1,
+        2,
+        2,
+        2
+       ]
+      },
+      {
+       "unite": "ALLAH-İNSAN İLİŞKİSİ",
+       "konu": "İbadet ve Dua Eden Bir Varlık Olarak İnsan",
+       "kod": "DKAB.9.1.3",
+       "metin": "Allah (cc) ile iletişimin ibadet ve dua ile sağlandığını yansıtabilme",
+       "sorular": [
+        2,
+        2,
+        2,
+        2,
+        2
+       ]
+      },
+      {
+       "unite": "ALLAH-İNSAN İLİŞKİSİ",
+       "konu": "Kur’an’dan Mesajlar",
+       "kod": "DKAB.9.1.4",
+       "metin": "Rum suresinin 17-27. ayetlerinin mesajlarını anlamada temel kaynakları kullanabilme",
+       "sorular": [
+        1,
+        1,
+        1,
+        0,
+        1
+       ]
+      },
+      {
+       "unite": "İSLAM’DA İNANÇ ESASLARI",
+       "konu": "İman ve İmanın Mahiyeti",
+       "kod": "DKAB.9.2.1",
+       "metin": "İmanın mahiyetini müşahede edebilme",
+       "sorular": [
+        1,
+        1,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "İSLAM’DA İNANÇ ESASLARI",
+       "konu": "İslam’da İman Esasları",
+       "kod": "DKAB.9.2.2",
+       "metin": "İslam’ın iman esaslarını ayet ve hadisler bağlamında özetleyebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "İSLAM’DA İNANÇ ESASLARI",
+       "konu": "İmanın Bireye ve Topluma Kazandırdıkları",
+       "kod": "DKAB.9.2.3",
+       "metin": "İmanın bireye ve topluma kazandırdıklarını idrak edebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "İSLAM’DA İNANÇ ESASLARI",
+       "konu": "Kur’an’dan Mesajlar",
+       "kod": "DKAB.9.2.4",
+       "metin": "Bakara suresinin 177. ayetindeki mesajları anlamak için Kur’an-ı Kerim meallerine başvurabilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "İSLAM’DA İBADETLER",
+       "konu": "İslam’da İbadetin Kapsamı",
+       "kod": "DKAB.9.3.1",
+       "metin": "İslam’da ibadet ve ibadetin temel ilkeleri hakkında bilgi toplayabilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "tarih": "2026-11-11"
+    },
+    {
+     "ad": "1. Dönem 2. Yazılı",
+     "senaryolar": [
+      "Senaryo 1",
+      "Senaryo 2",
+      "Senaryo 3",
+      "Senaryo 4",
+      "Senaryo 5",
+      "Senaryo 6"
+     ],
+     "kazanimlar": [
+      {
+       "unite": "ALLAH-İNSAN İLİŞKİSİ",
+       "konu": "İnsan ve İnsanın Yaratılışı",
+       "kod": "DKAB.9.1.1",
+       "metin": "İnsanın yaratılışını ve özelliklerini ayetlerden hareketle müşahede edebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "ALLAH-İNSAN İLİŞKİSİ",
+       "konu": "Doğruyu Arayan Bir Varlık Olarak İnsan",
+       "kod": "DKAB.9.1.2",
+       "metin": "İnsanın doğruyu arayan bir varlık olarak bilgiye ulaşma yolları hakkında eleştirel düşünebilme",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "ALLAH-İNSAN İLİŞKİSİ",
+       "konu": "İbadet ve Dua Eden Bir Varlık Olarak İnsan",
+       "kod": "DKAB.9.1.3",
+       "metin": "Allah (cc) ile iletişimin ibadet ve dua ile sağlandığını yansıtabilme",
+       "sorular": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "ALLAH-İNSAN İLİŞKİSİ",
+       "konu": "Kur’an’dan Mesajlar",
+       "kod": "DKAB.9.1.4",
+       "metin": "Rum suresinin 17-27. ayetlerinin mesajlarını anlamada temel kaynakları kullanabilme",
+       "sorular": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "İSLAM’DA İNANÇ ESASLARI",
+       "konu": "İman ve İmanın Mahiyeti",
+       "kod": "DKAB.9.2.1",
+       "metin": "İmanın mahiyetini müşahede edebilme",
+       "sorular": [
+        1,
+        1,
+        1,
+        2,
+        1,
+        2
+       ]
+      },
+      {
+       "unite": "İSLAM’DA İNANÇ ESASLARI",
+       "konu": "İslam’da İman Esasları",
+       "kod": "DKAB.9.2.2",
+       "metin": "İslam’ın iman esaslarını ayet ve hadisler bağlamında özetleyebilme",
+       "sorular": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2
+       ]
+      },
+      {
+       "unite": "İSLAM’DA İNANÇ ESASLARI",
+       "konu": "İmanın Bireye ve Topluma Kazandırdıkları",
+       "kod": "DKAB.9.2.3",
+       "metin": "İmanın bireye ve topluma kazandırdıklarını idrak edebilme",
+       "sorular": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2
+       ]
+      },
+      {
+       "unite": "İSLAM’DA İNANÇ ESASLARI",
+       "konu": "Kur’an’dan Mesajlar",
+       "kod": "DKAB.9.2.4",
+       "metin": "Bakara suresinin 177. ayetindeki mesajları anlamak için Kur’an-ı Kerim meallerine başvurabilme",
+       "sorular": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "İSLAM’DA İBADETLER",
+       "konu": "İslam’da İbadetin Kapsamı",
+       "kod": "DKAB.9.3.1",
+       "metin": "İslam’da ibadet ve ibadetin temel ilkeleri hakkında bilgi toplayabilme",
+       "sorular": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        0
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ingilizce",
+   "ad": "İngilizce",
+   "sinavlar": [
+    {
+     "ad": "1. Dönem 1. Yazılı",
+     "senaryolar": [
+      "Senaryo 1",
+      "Senaryo 2",
+      "Senaryo 3",
+      "Senaryo 4",
+      "Senaryo 5"
+     ],
+     "kazanimlar": [
+      {
+       "unite": "Revision 1",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.8.1.R3.Students can make sense of and derive meaning from the current content on “school lifeand education with school events and celebrations (sports, music, drama); developing theenvironment; national days and celebrations”.",
+       "sorular": [
+        1,
+        0,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "Revision 1",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.8.2.V1.Students can select and use target vocabulary efficiently, effectively, and accurately, based onthe current content about “classroom life and learning with preferences for different learningactivities; preferences for different learning technologies” after recognising them in contextand developing their conscious and inductive vocabulary learning skills.",
+       "sorular": [
+        1,
+        0,
+        1,
+        0,
+        1
+       ]
+      },
+      {
+       "unite": "Revision 1",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.8.3.G1.Students can select and use target grammatical language items efficiently, effectively, andaccurately, based on the current content about “personal life and well-being with mobile phonesand their impact on health and social life; personal preferences for films and visual arts”, afterrecognising them in context and developing their conscious and inductive grammaring skillsthrough consciousness-raising and discovery.",
+       "sorular": [
+        1,
+        0,
+        0,
+        1,
+        0
+       ]
+      },
+      {
+       "unite": "Revision 1",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.8.4.R3.Students can make sense of and derive meaning from the current content on “family life andhome with relationships, problems and solutions in the family; different houses and livingstyles”.",
+       "sorular": [
+        1,
+        1,
+        1,
+        0,
+        1
+       ]
+      },
+      {
+       "unite": "Revision 2",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.8.6.V1.Students can select and use target vocabulary efficiently, effectively, and accurately, basedon the current content about “life in the world and culture with different cooking styles andpreferences in the world; different food cultures in the world” after recognising them in contextand developing their conscious and inductive vocabulary learning skills.",
+       "sorular": [
+        0,
+        1,
+        0,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "Revision 2",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.8.8.R3.Students can make sense of and derive meaning from the current content on “life in theuniverse and future with transport in the future; self-driving cars; ﬂying vehicles in the future”.",
+       "sorular": [
+        0,
+        1,
+        0,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "SCHOOL LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.1.R2. Students can bring information together about the current content on ''school life with students of different countries, nationalities, and languages; capitals of their countries, and tourist attractions; activities in their capitals and countries; national days and celebrations'' through skimming, scanning and detailed reading.",
+       "sorular": [
+        1,
+        0,
+        0,
+        0,
+        1
+       ]
+      },
+      {
+       "unite": "SCHOOL LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.1.R3. Students can make sense of and derive meaning from the current content on ''school life with students of different countries, nationalities, and languages; capitals of their countries, and tourist attractions; activities in their capitals and countries; national days and celebrations''.",
+       "sorular": [
+        0,
+        0,
+        1,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "SCHOOL LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.1.V1. Students can select and use target vocabulary efficiently, effectively, and accurately, based on the current content about ''school life with students of different countries, nationalities, and languages; capitals of their countries, and tourist attractions; activities in their capitals and countries; national days and celebrations'' after recognising them in context and developing their conscious and inductive vocabulary learning skills.",
+       "sorular": [
+        0,
+        1,
+        0,
+        1,
+        0
+       ]
+      },
+      {
+       "unite": "SCHOOL LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.1.G1. Students can select and use target grammatical language items efficiently, effectively, and accurately, based on the current content about ''school life with students of different countries, nationalities, and languages; capitals oftheir countries, and touristattractions; activities in their capitals and countries; national days and celebrations'', after recognising them in context and developing their conscious and inductive grammaring skills through consciousness-raising and discovery.",
+       "sorular": [
+        0,
+        2,
+        1,
+        1,
+        0
+       ]
+      },
+      {
+       "unite": "SCHOOL LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.1.W3. Students can construct new written content on ''school life with students of different countries, nationalities, and languages; capitals of their countries, and tourist attractions; activities in their capitals and countries; national days and celebrations'' based on their understanding of the model(s) provided.",
+       "sorular": [
+        1,
+        0,
+        1,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "SCHOOL LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.1.W4. Students can practise producing written content based on the current theme ''school life with students of different countries, nationalities, and languages; capitals of their countries, and tourist attractions; activities in their capitals and countries; national days and celebrations''.",
+       "sorular": [
+        0,
+        1,
+        0,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "CLASSROOM LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.2.R2. Students can bring information together about the current content on ''classroom life with classmates, friendships, daily and study routines, habits, and activities'' through skimming, scanning and detailed reading.",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "CLASSROOM LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.2.R3. Students can make sense of and derive meaning from the current content on ''classroom life with classmates, friendships, daily and study routines, habits, and activities''.",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "CLASSROOM LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.2.V1. Students can select and use target vocabulary efficiently, effectively, and accurately, based on the current content about ''classroom life with classmates, friendships, daily and study routines, habits, and activities'' after recognising them in context and developing their conscious and inductive vocabulary learning skills.",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "CLASSROOM LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.2.G1. Students can select and use target grammatical language items efficiently, effectively, and accurately, based on the current content about ''classroom life with classmates, friendships, daily and study routines, habits, and activities'', after recognising them in context and developing their conscious and inductive grammaring skills through consciousness-raising and discovery.",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "CLASSROOM LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.2.W3. Students can construct new written content on ''classroom life with classmates, friendships, daily and study routines, habits, and activities'' based on their understanding of the model(s) provided.",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "CLASSROOM LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.2.W4. Students can practise producing written content based on the current theme ''classroom life with classmates, friendships, daily and study routines, habits, and activities''",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "PERSONAL LIFE: PHYSICAL APPEARANCE & PERSONALITY",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.3.R2. Students can bring information together about the current content on ''personal life with physical appearance in terms of physical features and personality in terms of personal traits and character'' through skimming, scanning and detailed reading.",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "PERSONAL LIFE: PHYSICAL APPEARANCE & PERSONALITY",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.3.R3. Students can make sense of and derive meaning from the current content on ''personal life with physical appearance in terms of physical features and personality in terms of personal traits and character''.",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "PERSONAL LIFE: PHYSICAL APPEARANCE & PERSONALITY",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.3.V1. Students can select and use target vocabulary efficiently, effectively, and accurately, based on the current content about ''personal life with physical appearance in terms of physical features and personality in terms of personal traits and character'' after recognising them in context and developing their conscious and inductive vocabulary learning skills.",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "PERSONAL LIFE: PHYSICAL APPEARANCE & PERSONALITY",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.3.G1. Students can select and use target grammatical language items efficiently, effectively, and accurately, based on the current content about ''personal life with physical appearance in terms of physical features and personality in terms of personal traits and character'', after recognising them in context and developing their conscious and inductive grammaring skills through consciousness- raising and discovery.",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "PERSONAL LIFE: PHYSICAL APPEARANCE & PERSONALITY",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.3.W3. Students can construct new written content on ''personal life with physical appearance in terms of physical features and personality in terms of personal traits and character'' based on their understanding of the model(s) provided.",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "PERSONAL LIFE: PHYSICAL APPEARANCE & PERSONALITY",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.3.W4. Students can practise producing written content based on the current theme ''personal life with physical appearance in terms of physical features and personality in terms of personal traits and character''.",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "tarih": "2026-11-13"
+    },
+    {
+     "ad": "1. Dönem 2. Yazılı",
+     "senaryolar": [
+      "Senaryo 1",
+      "Senaryo 2",
+      "Senaryo 3",
+      "Senaryo 4",
+      "Senaryo 5"
+     ],
+     "kazanimlar": [
+      {
+       "unite": "Revision 1",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.8.1.R3.Students can make sense of and derive meaning from the current content on “school lifeand education with school events and celebrations (sports, music, drama); developing theenvironment; national days and celebrations”.",
+       "sorular": [
+        1,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "Revision 1",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.8.2.V1.Students can select and use target vocabulary efficiently, effectively, and accurately, based onthe current content about “classroom life and learning with preferences for different learningactivities; preferences for different learning technologies” after recognising them in contextand developing their conscious and inductive vocabulary learning skills.",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "Revision 1",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.8.3.G1.Students can select and use target grammatical language items efficiently, effectively, andaccurately, based on the current content about “personal life and well-being with mobile phonesand their impact on health and social life; personal preferences for films and visual arts”, afterrecognising them in context and developing their conscious and inductive grammaring skillsthrough consciousness-raising and discovery.",
+       "sorular": [
+        0,
+        0,
+        1,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "Revision 1",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.8.4.R3.Students can make sense of and derive meaning from the current content on “family life andhome with relationships, problems and solutions in the family; different houses and livingstyles”.",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        1
+       ]
+      },
+      {
+       "unite": "Revision 2",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.8.6.V1.Students can select and use target vocabulary efficiently, effectively, and accurately, basedon the current content about “life in the world and culture with different cooking styles andpreferences in the world; different food cultures in the world” after recognising them in contextand developing their conscious and inductive vocabulary learning skills.",
+       "sorular": [
+        0,
+        0,
+        0,
+        1,
+        0
+       ]
+      },
+      {
+       "unite": "Revision 2",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.8.8.R3.Students can make sense of and derive meaning from the current content on “life in theuniverse and future with transport in the future; self-driving cars; ﬂying vehicles in the future”.",
+       "sorular": [
+        0,
+        1,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "SCHOOL LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.1.R2. Students can bring information together about the current content on ''school life with students of different countries, nationalities, and languages; capitals of their countries, and tourist attractions; activities in their capitals and countries; national days and celebrations'' through skimming, scanning and detailed reading.",
+       "sorular": [
+        1,
+        0,
+        0,
+        1,
+        0
+       ]
+      },
+      {
+       "unite": "SCHOOL LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.1.R3. Students can make sense of and derive meaning from the current content on ''school life with students of different countries, nationalities, and languages; capitals of their countries, and tourist attractions; activities in their capitals and countries; national days and celebrations''.",
+       "sorular": [
+        0,
+        0,
+        1,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "SCHOOL LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.1.V1. Students can select and use target vocabulary efficiently, effectively, and accurately, based on the current content about ''school life with students of different countries, nationalities, and languages; capitals of their countries, and tourist attractions; activities in their capitals and countries; national days and celebrations'' after recognising them in context and developing their conscious and inductive vocabulary learning skills.",
+       "sorular": [
+        0,
+        1,
+        0,
+        0,
+        1
+       ]
+      },
+      {
+       "unite": "SCHOOL LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.1.G1. Students can select and use target grammatical language items efficiently, effectively, and accurately, based on the current content about ''school life with students of different countries, nationalities, and languages; capitals oftheir countries, and touristattractions; activities in their capitals and countries; national days and celebrations'', after recognising them in context and developing their conscious and inductive grammaring skills through consciousness-raising and discovery.",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "SCHOOL LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.1.W3. Students can construct new written content on ''school life with students of different countries, nationalities, and languages; capitals of their countries, and tourist attractions; activities in their capitals and countries; national days and celebrations'' based on their understanding of the model(s) provided.",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "SCHOOL LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.1.W4. Students can practise producing written content based on the current theme ''school life with students of different countries, nationalities, and languages; capitals of their countries, and tourist attractions; activities in their capitals and countries; national days and celebrations''.",
+       "sorular": [
+        0,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "CLASSROOM LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.2.R2. Students can bring information together about the current content on ''classroom life with classmates, friendships, daily and study routines, habits, and activities'' through skimming, scanning and detailed reading.",
+       "sorular": [
+        0,
+        1,
+        1,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "CLASSROOM LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.2.R3. Students can make sense of and derive meaning from the current content on ''classroom life with classmates, friendships, daily and study routines, habits, and activities''.",
+       "sorular": [
+        0,
+        0,
+        0,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "CLASSROOM LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.2.V1. Students can select and use target vocabulary efficiently, effectively, and accurately, based on the current content about ''classroom life with classmates, friendships, daily and study routines, habits, and activities'' after recognising them in context and developing their conscious and inductive vocabulary learning skills.",
+       "sorular": [
+        1,
+        1,
+        1,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "CLASSROOM LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.2.G1. Students can select and use target grammatical language items efficiently, effectively, and accurately, based on the current content about ''classroom life with classmates, friendships, daily and study routines, habits, and activities'', after recognising them in context and developing their conscious and inductive grammaring skills through consciousness-raising and discovery.",
+       "sorular": [
+        1,
+        0,
+        1,
+        1,
+        0
+       ]
+      },
+      {
+       "unite": "CLASSROOM LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.2.W3. Students can construct new written content on ''classroom life with classmates, friendships, daily and study routines, habits, and activities'' based on their understanding of the model(s) provided.",
+       "sorular": [
+        1,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "CLASSROOM LIFE",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.2.W4. Students can practise producing written content based on the current theme ''classroom life with classmates, friendships, daily and study routines, habits, and activities''",
+       "sorular": [
+        0,
+        1,
+        0,
+        1,
+        0
+       ]
+      },
+      {
+       "unite": "PERSONAL LIFE: PHYSICAL APPEARANCE & PERSONALITY",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.3.R2. Students can bring information together about the current content on ''personal life with physical appearance in terms of physical features and personality in terms of personal traits and character'' through skimming, scanning and detailed reading.",
+       "sorular": [
+        0,
+        0,
+        1,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "PERSONAL LIFE: PHYSICAL APPEARANCE & PERSONALITY",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.3.R3. Students can make sense of and derive meaning from the current content on ''personal life with physical appearance in terms of physical features and personality in terms of personal traits and character''.",
+       "sorular": [
+        1,
+        0,
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "unite": "PERSONAL LIFE: PHYSICAL APPEARANCE & PERSONALITY",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.3.V1. Students can select and use target vocabulary efficiently, effectively, and accurately, based on the current content about ''personal life with physical appearance in terms of physical features and personality in terms of personal traits and character'' after recognising them in context and developing their conscious and inductive vocabulary learning skills.",
+       "sorular": [
+        1,
+        0,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "PERSONAL LIFE: PHYSICAL APPEARANCE & PERSONALITY",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.3.G1. Students can select and use target grammatical language items efficiently, effectively, and accurately, based on the current content about ''personal life with physical appearance in terms of physical features and personality in terms of personal traits and character'', after recognising them in context and developing their conscious and inductive grammaring skills through consciousness- raising and discovery.",
+       "sorular": [
+        0,
+        1,
+        0,
+        1,
+        1
+       ]
+      },
+      {
+       "unite": "PERSONAL LIFE: PHYSICAL APPEARANCE & PERSONALITY",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.3.W3. Students can construct new written content on ''personal life with physical appearance in terms of physical features and personality in terms of personal traits and character'' based on their understanding of the model(s) provided.",
+       "sorular": [
+        1,
+        0,
+        0,
+        0,
+        1
+       ]
+      },
+      {
+       "unite": "PERSONAL LIFE: PHYSICAL APPEARANCE & PERSONALITY",
+       "konu": "",
+       "kod": "",
+       "metin": "ENG.9.3.W4. Students can practise producing written content based on the current theme ''personal life with physical appearance in terms of physical features and personality in terms of personal traits and character''.",
+       "sorular": [
+        0,
+        0,
+        1,
+        0,
+        0
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
