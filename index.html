@@ -5,6 +5,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>9. Sınıf Sınav Hazırlık</title>
 <meta name="description" content="MEB konu soru dağılım tablolarına dayalı, kazanım kazanım çalışma programı.">
+<meta name="theme-color" content="#2457d6">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Sınav Hazırlık">
 <link rel="stylesheet" href="style.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
 </head>
@@ -22,5 +28,17 @@
   Bu sayfa resmî bir MEB uygulaması değildir. <span id="surum"></span>
 </footer>
 <script src="app.js"></script>
+<script>
+// PWA: service worker kaydı. Yeni sürüm denetimi alınca sayfa bir kez yenilenir.
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("sw.js").catch(() => {});
+    let yenilendi = false;
+    navigator.serviceWorker.addEventListener("controllerchange", () => {
+      if (yenilendi) return; yenilendi = true; location.reload();
+    });
+  });
+}
+</script>
 </body>
 </html>

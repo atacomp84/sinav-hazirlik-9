@@ -15,6 +15,12 @@ statik sayfadır.
 Yeni dönem tabloları çıkınca üst klasördeki `araclar/ksdt_to_json.py` betiği xlsx dosyalarından
 `data/9-sinif.json` dosyasını yeniden üretir. Sınav tarihleri aynı betikteki `TARIH_1` sözlüğünde.
 
+## Telefona kurma (PWA)
+
+Uygulama bir PWA'dır: `manifest.webmanifest` ve `sw.js` sayesinde telefonun ana ekranına
+eklenebilir ve bir kez açılan sayfalar çevrim dışı da görüntülenir. Yeni sürüm çıkarmak için
+`app.js` içindeki `APP_VERSION` ile `sw.js` içindeki `CACHE_NAME` birlikte artırılır.
+
 ## Yerel çalıştırma
 
 Herhangi bir statik sunucu yeterlidir, örneğin:

@@ -1,5 +1,5 @@
 /* 9. Sınıf Sınav Hazırlık — MEB konu soru dağılım tablolarından çalışma programı üretir. */
-const APP_VERSION = "1.3.0";
+const APP_VERSION = "1.4.0";
 const VARSAYILAN_SINAV = "1. Dönem 1. Yazılı"; // şu anki sınav dönemi
 
 const KITAPLAR = {
