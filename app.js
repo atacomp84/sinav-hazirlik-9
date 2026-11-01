@@ -1,5 +1,5 @@
 /* 9. Sınıf Sınav Hazırlık — MEB konu soru dağılım tablolarından çalışma programı üretir. */
-const APP_VERSION = "1.1.0";
+const APP_VERSION = "1.2.0";
 const VARSAYILAN_SINAV = "1. Dönem 1. Yazılı"; // şu anki sınav dönemi
 
 const KITAPLAR = {
@@ -7,6 +7,8 @@ const KITAPLAR = {
   "biyoloji": "https://tymm.meb.gov.tr/kitap/36/biyoloji-dersi-9sinif-ders-kitabi",
   "cografya": "https://tymm.meb.gov.tr/kitap/37/cografya-dersi-9sinif-ders-kitabi",
   "din-kulturu": "https://tymm.meb.gov.tr/kitap/518/din-kulturu-ve-ahlak-bilgisi-9sinif-ders-kitabi",
+  "kimya": "https://tymm.meb.gov.tr/kitap/39/kimya-9sinif-ders-kitabi",
+  "tarih": "https://tymm.meb.gov.tr/kitap/43/tarih-9sinif-ders-kitabi",
 };
 const KITAP_LISTESI = "https://tymm.meb.gov.tr/ders-kitaplari/ortaogretim";
 const ODSGM_TABLO = "https://odsgm.meb.gov.tr/www/1donem-konu-soru-dagilim-tablolari-2026-2027/icerik/1724/tr";
@@ -26,6 +28,32 @@ const ICERIK = {
       { ad: "Gün 2 cevap anahtarı", dosya: "content/biyoloji/gun-2-cevap-anahtari.md", anahtar: true },
       { ad: "Deneme sınavı (40 dk, 6 soru)", dosya: "content/biyoloji/deneme-sinavi.md" },
       { ad: "Deneme cevap anahtarı", dosya: "content/biyoloji/deneme-cevap-anahtari.md", anahtar: true },
+    ]
+  },
+  "kimya": {
+    "1. Dönem 1. Yazılı": [
+      { ad: "Konu: Kimya hayattır (günlük hayat, alt disiplinler)", dosya: "content/kimya/konu-kim-9-1-1.md", kod: "KİM.9.1.1", konu: true },
+      { ad: "Konu: Kimyasal maddelerin kullanımı ve güvenlik", dosya: "content/kimya/konu-kim-9-1-2.md", kod: "KİM.9.1.2", konu: true },
+      { ad: "Konu: Atom teorileri ve bilginin değişebilirliği", dosya: "content/kimya/konu-kim-9-1-3.md", kod: "KİM.9.1.3", konu: true },
+      { ad: "Konu: Atom orbitalleri ve bağıl enerjileri", dosya: "content/kimya/konu-kim-9-1-4.md", kod: "KİM.9.1.4", konu: true },
+      { ad: "Konu: Elektron dizilimi (Aufbau, Pauli, Hund)", dosya: "content/kimya/konu-kim-9-1-5.md", kod: "KİM.9.1.5", konu: true },
+      { ad: "Kazanım haritası ve 3 günlük program", dosya: "content/kimya/kazanim-haritasi.md" },
+      { ad: "Soru seti (18 soru)", dosya: "content/kimya/soru-seti.md" },
+      { ad: "Soru seti cevap anahtarı", dosya: "content/kimya/cevap-anahtari.md", anahtar: true },
+      { ad: "Deneme sınavı (40 dk, 7 soru)", dosya: "content/kimya/deneme-sinavi.md" },
+      { ad: "Deneme cevap anahtarı", dosya: "content/kimya/deneme-cevap-anahtari.md", anahtar: true },
+    ]
+  },
+  "tarih": {
+    "1. Dönem 1. Yazılı": [
+      { ad: "Konu: Tarih öğrenmenin faydaları", dosya: "content/tarih/konu-tar-9-1-1.md", kod: "TAR.9.1.1", konu: true },
+      { ad: "Konu: Tarihin doğası", dosya: "content/tarih/konu-tar-9-1-2.md", kod: "TAR.9.1.2", konu: true },
+      { ad: "Konu: Tarihsel bilginin üretim süreci", dosya: "content/tarih/konu-tar-9-1-3.md", kod: "TAR.9.1.3", konu: true },
+      { ad: "Kazanım haritası ve 3 günlük program", dosya: "content/tarih/kazanim-haritasi.md" },
+      { ad: "Soru seti (13 soru)", dosya: "content/tarih/soru-seti.md" },
+      { ad: "Soru seti cevap anahtarı", dosya: "content/tarih/cevap-anahtari.md", anahtar: true },
+      { ad: "Deneme sınavı (40 dk, 7 soru)", dosya: "content/tarih/deneme-sinavi.md" },
+      { ad: "Deneme cevap anahtarı", dosya: "content/tarih/deneme-cevap-anahtari.md", anahtar: true },
     ]
   }
 };
