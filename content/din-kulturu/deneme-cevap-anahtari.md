@@ -1,0 +1,50 @@
+# Deneme Sınavı — Puanlama Anahtarı (Din Kültürü ve Ahlak Bilgisi)
+
+Toplam 100 puan. Değerlendirme: 85+ hazır, 70-84 yanlış defteri tekrarı yeterli, 70 altı o kazanımın konu anlatımı sınav sabahı bir kez daha okunur.
+
+Her soruda üç unsur aranır: **kavramın adı** (emanet, fıtrat, tasdik, tövbe, Mucib…), **ayet/hadisten ifade** (sure adı ya da alıntı), **açıklama/gerekçe**. Üçünden biri eksikse o maddenin puanı yarıya iner.
+
+---
+
+**SORU 1 (14p)**
+- Bakara 31-32 (4p): **Öğrenebilen / bilgi sahibi, akıl ve muhakeme sahibi** varlık; "Âdem'e bütün varlıkların isimlerini öğretti"; melekler "senin öğrettiklerinden başka bilgimiz yoktur" diyerek insanın bu ayrıcalığını kabul eder.
+- Ahzab 72 (4p): **Sorumluluk / emanet yüklenen** varlık; göklerin, yerin ve dağların çekindiği emaneti (Rabbini tanıma, dinî vecibeler, ahirete hazırlık) insan **akıl ve iradesiyle** yüklenmiştir.
+- Zariyat 56 (3p): **Kulluk için yaratılan** varlık; yaratılış amacı Allah'ı tanımak ve O'na kulluk etmektir.
+- Ayırıcı yön (3p): İnsan **akıl, irade ve öğrenme** yeteneğiyle emaneti yüklenir ve iman etmek ya da inkâr etmek bakımından **imtihan edilir**; melekler ve diğer varlıklar Allah'ı kendi tarzlarında tespih eder ama tercih sahibi değildir (İsra 44, Rum 26).
+
+**SORU 2 (14p)**
+- a (7p): Görüş eksiktir. Müminun 12-14 insanın çamurdan özden başlayan **aşamalarını** anlatır ama son aşamada "**başka bir yaratışla insan hâline getirdik**" der: insan yalnızca beden değildir; akıl, ruh, irade ve ahlak sahibi bir varlıktır (3,5p). Tin 4 "**en güzel biçimde (ahsenitakvim)**" yaratıldığını bildirir; bu güzellik beden kadar akıl, irade ve ahlaki kapasiteyi de kapsar; İsra 70 insanın "yarattıklarının çoğundan üstün" kılındığını söyler (3,5p). Yalnızca "yanlış" diyen, ayet kullanmayan cevap en fazla 2p.
+- b (7p): Amaç: **Allah'a kulluk** / Rabbini tanımak (2p); dünya hayatı imtihandır, insan sorumlu ve bilinçli davranıp salih amel işlemelidir (1p). Sorumluluk alanları (4p, 1p her biri, örnekli): **kendisine** (sağlığını ve aklını korumak, kendini geliştirmek), **ailesine** (anne babaya iyilik, İsra 23), **topluma** (adalet, yardımseverlik, haklara saygı), **Allah'a** (ibadet, şükür, emirlerine uyma).
+
+**SORU 3 (14p)**
+- a (5p): **Duyular**: çevreyi algılamanın ilk kaynağı; yalnız gözlenebilir olanı verir, ahireti ve gaybı bilemez. **Akıl**: duyu verilerini muhakeme eder, doğruyu yanlıştan ayırır, bilim ve teknoloji üretir; ama insan zaman-mekân ve yaratılış bakımından **sınırlı**dır, akıl tek başına ahiret, Allah'ın sıfatları ve ibadetlerin şekli hakkında kesin bilgi veremez. **Vahiy (doğru haber)**: aklın ve duyuların ötesindeki bilgileri peygamber aracılığıyla verir; ahiret hakkında tek kaynaktır. Her kaynak + sınır yaklaşık 1,7p.
+- b (5p): Ayet evreni **akıl sahipleri için ibret** sayar; Allah'ın varlığı ve kudreti **tefekkürle** kavranabilir, akıl değerlidir (Kur'an "Ey akıl sahipleri" diye hitap eder, Alak 1-5 "oku" der) (2,5p). Çelişmez: akıl evrendeki düzenden **yaratıcının varlığına** ulaşır (Hay bin Yakzan örneği), ama **ahiretin ayrıntıları** gibi gayb bilgisi yalnızca vahiyle bilinir; öğretmen aklı değil aklın **sınırını** anlatır; duyu, akıl ve vahiy birbirini tamamlar (2,5p). Tek yanlı cevap en fazla 3p.
+- c (4p, 2p her gerekçe): (1) İnsan fıtratı inanmaya yatkın olsa da **nefsin kötü isteklerine uyma ve sorumluluklarını unutma** özelliği vardır, doğru tercih yapabildiği gibi yanlış yola da sapabilir; vahiy sapmaması için gönderilmiştir. (2) İnsanlar kıskançlık yüzünden **anlaşmazlığa düşer**, ortak bir hakem gerekir; kitaplar "anlaşmazlığa düştükleri hususlarda hüküm vermek için" indirilmiştir (Bakara 213). (3) Allah'a **kulluğun nasıl yapılacağını** (ibadetlerin şekli) ancak peygamberler gösterir; insanların Allah'a karşı **bahanesi kalmasın** diye (Nisa 165). (4) Yaratılış, ahlak, toplumsal düzen ve anlam arayışında **rehberlik** ihtiyacı.
+
+**SORU 4 (15p)**
+- a (5p): **Dua** ("Duanız olmasa Allah size ne diye değer versin" → Allah duaya değer verir, dua Allah ile iletişimdir); **secde / namaz** ("Kulun Rabbine en yakın olduğu an secdede olduğu andır" → ibadet anları bağın en yoğun olduğu anlardır); **zikir ve hamt** (sabah-akşam duaları, Allah'ın kudretini anma). Ayrıca kitaptan: tövbe, Kur'an okumak. Üç yol ifadeyle 5p.
+- b (6p): **Dua**: kulun bütün benliğiyle Allah'a yönelerek istek ve dilekte bulunması; acizliğini kavrayıp yalvarma, şükür, övgü ve iletişim (1,5p). **İbadet**: boyun eğme, itaat, kulluk; Allah'ın rızasına uygun yapılan bütün davranışlar (1,5p). Hadis: her ibadetin özünde Allah'ı **yüceltme ve O'na niyaz** vardır, duada ikisi bir aradadır; bu yüzden namaz Kur'an'da **salat (dua)** kelimesiyle anılır (1,5p). Fatiha örneği: "Hamt… Allah'a mahsustur" (övgü), "yalnız senden yardım dileriz" (acizlik), "bizi dosdoğru yola ilet" (istek): namazın her rekâtında okunan bu sure dua yapısındadır (1,5p).
+- c (4p): Hz. Peygamber hilâli görünce, sabah-akşam, yatarken, her vesileyle dua ederdi; dua hayatın **her anını anlamlandırır**, yalnızca sıkıntı anına özgü değildir (Fussilet 51 sadece sıkıntıda dua edeni kınar) (2p). Niyetler: Allah'ı **zikretmek**, nimetler için **şükretmek**, **tövbe**, **merhamet dilemek**, kötülükten **sığınmak**, yardım istemek, hatta **sadece O'nunla konuşmak** (2p).
+
+**SORU 5 (15p)**
+- a (6p): Öneri: hatayı fark etmek ilk adımdır; **Tevvab** olan Allah'a yönelip **dua etmeli ve tövbe** etmelidir (1,5p). **Tövbe**: günahtan dönüş, pişmanlık, günahı terk etme, istiğfar; yapılan hata ve günahlardan pişman olup **bir daha yapmamaya karar vermek**; yaratılıştaki safiyete dönüş için sunulmuş bir **fırsat** (2p). Maide 39: tövbe edip **durumunu düzelten**in tövbesini Allah kabul eder, O çok bağışlayan ve merhamet edendir; yani tövbe yalnız pişmanlık değil davranışı **düzeltme**dir; Allah'ın "Bana dua eden yok mu… mağfiret isteyen yok mu, onu bağışlayayım" çağrısı (Buhari) umut verir (2,5p).
+- b (4p): **Tevvab** (tövbeleri çok kabul eden), **Settar** (ayıpları, kusurları örten), **Gaffar** (bağışlaması sonsuz, tövbe edenlerin günahlarını bol bol bağışlayan), **Afüv** (hiçbir sorumluluk kalmayacak biçimde affeden), **Mucib** (dileklere karşılık veren). Üç isim + anlam 4p; anlamsız isim 0,5p.
+- c (5p): Katkılar (3p, 1p her biri): günahtan **arınma ve iç huzur**; **teselli ve ümit** kaynağı, yalnız olmadığını hissetme; zorluklar karşısında **sabır ve güç**; acizliğini kavrayıp **tevazu**; Allah'a **yakınlaşma**; ahlakın güzelleşmesi. Yansıma (2p): "İnsanın Allah ile olan bağı, insanlarla olan ilişkisine yansır"; kulluktaki samimiyet ahlakı güzelleştirir, kişi kötülüklerden sakınır, başkalarına karşı **saygılı, adil ve sorumlu** davranır.
+
+**SORU 6 (14p)**
+- a (5p): **20**: insanın topraktan yaratılması ve çoğalarak yeryüzüne dağılması; **22**: göklerin ve yerin yaratılması, dil ve renk farklılığı; **23**: gece-gündüz, uyku (dinlenme) ve rızık arama (çalışma); **27**: varlığı ilk yaratıp tekrar etmesi, en yüce sıfatların O'na ait olması. Dört ayet numaralı 5p.
+- b (5p): Yaratılış **tekdüze değildir**, çeşitlilikle hayat güzelleşir; farklı dil ve renkler **tanışma ve kaynaşma** vesilesidir, ayrışma sebebi değil; evren insanla anlam kazanır; farklılıklar ilim, sanat ve medeniyetin gelişmesine katkı sağlar (tefsir) (2,5p). Üstünlük sayılmaz çünkü insanlar **takvalarına** göre değer kazanır; yaratılıştan gelen özellik insanın tercihi değil Allah'ın takdiridir; İslam **din kardeşliğini** esas alır; hepsi aynı aslın (toprak) çocuğudur (2,5p).
+- c (4p): "**Varlığı ilkin yaratan, sonra bunu tekrar eden O'dur ve bu O'nun için pek kolaydır**" ifadesi (2p): ilk kez yoktan yaratan Allah, öldükten sonra **yeniden yaratmaya** da kadirdir; ikinci yaratma ilkinden zor değildir; bu, ahirette yeniden dirilişin delilidir; "mutlak galip, hikmet sahibi" sıfatları da bunun kudret ve hikmetle olacağını gösterir (2p). 19. ve 24. ayetlerle (bahar benzetmesi) bağ kuran cevaba artı değer.
+
+**SORU 7 (14p)**
+- a (6p): **İman**: inanmak, tasdik etmek, güvende olmak; Allah'ın varlığına, birliğine ve peygamberlerin tebliğ ettiği kesin hususlara inanıp **tasdik** etmek (2p). Hucurat 14: bedeviler dille "iman ettik" demiş ama iman gönüllerine **yerleşmemiş**; bu yüzden yalnızca "teslim oldunuz" denmiştir; imanın geçerliliği için **kalp ile tasdik** gerekir ve yeterlidir (2p). **Tasdik** kalp ile doğrulama ve içten bağlanma; **ikrar** kalpteki imanı **söz ile açıklama**; ikrar kişinin mümin olarak **bilinmesi ve ona göre muamele görmesi** için gerekir, tek başına iman değildir (2p).
+- b (4p): Allah anıldığında **kalpleri ürperir**; ayetler okununca **imanları artar**; yalnızca Rablerine **tevekkül** ederler. Üçü 4p (ek: itaat, namaz, zekât, iyiliği emretme, israf ve cimrilikten kaçınma, vakar ve tevazu kabul).
+- c (4p): Birincisi **taklidî iman** (delilsiz, çevrenin inancını taklit), ikincisi **tahkikî iman** (naklî ve akli delillere, araştırma ve kavramaya dayanan) (2p). **Tahkikî iman** daha dayanıklıdır: taklidî imanlı kişi yeterli bilgisi olmadığından itiraz ve inkârla karşılaşınca **şüpheye düşebilir**, telkin edilene ve nefsine hoş gelene kapılabilir; tahkikî iman yaratılış üzerine **tefekkür** ve Kur'an-sünnet bilgisiyle **sağlam temel** üzerine kurulur, kalpteki teslimiyetle imanı kuvvetlendirir (2p).
+
+---
+
+## Sonuca göre sınav sabahı (11 Kasım)
+- Her sorunun puanını kazanımına yaz: 9.1.1 (S1+S2, 28p), 9.1.2 (S3, 14p), 9.1.3 (S4+S5, 30p), 9.1.4 (S6, 14p), 9.2.1 (S7, 14p). Yüzdeye çevir.
+- Yüzdesi en düşük kazanımın konu anlatımı sabah 15 dakika okunur. Diğerlerine yalnızca özet kâğıtlarından bakılır.
+- Sabah ezbersiz yazılacaklar: Müminun 12-14 aşamaları; insanın beş özelliği + ayetleri; üç bilgi kaynağı ve sınırları; ibadet-hamt-dua-tövbe tanımları; beş esmayıhüsna; Rum 17-27 numara-konu tablosu; tasdik-ikrar farkı; taklidî-tahkikî.
+- Sınavda önce tüm soruları oku, puanı yüksek ve en iyi bildiğin sorudan başla; her cevapta **ayet/hadis adı + kavram + gerekçe**; "halife = hâkim", "her iş için dua edilebilir", "ikrar = iman" tuzaklarına düşme; boş bırakma.

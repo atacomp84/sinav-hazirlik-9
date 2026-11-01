@@ -1,5 +1,5 @@
 /* 9. Sınıf Sınav Hazırlık — MEB konu soru dağılım tablolarından çalışma programı üretir. */
-const APP_VERSION = "1.2.0";
+const APP_VERSION = "1.3.0";
 const VARSAYILAN_SINAV = "1. Dönem 1. Yazılı"; // şu anki sınav dönemi
 
 const KITAPLAR = {
@@ -9,6 +9,10 @@ const KITAPLAR = {
   "din-kulturu": "https://tymm.meb.gov.tr/kitap/518/din-kulturu-ve-ahlak-bilgisi-9sinif-ders-kitabi",
   "kimya": "https://tymm.meb.gov.tr/kitap/39/kimya-9sinif-ders-kitabi",
   "tarih": "https://tymm.meb.gov.tr/kitap/43/tarih-9sinif-ders-kitabi",
+  "fizik": "https://tymm.meb.gov.tr/kitap/38/fizik-dersi-9sinif-ders-kitabi",
+  "matematik": "https://tymm.meb.gov.tr/kitap/41/matematik-9sinif-ders-kitabi-1kitap",
+  "turk-dili-ve-edebiyati": "https://tymm.meb.gov.tr/kitap/45/turk-dili-ve-edebiyati-9sinif-ders-kitabi",
+  "ingilizce": "https://tymm.meb.gov.tr/kitap/68/ingilizce-dersi-9sinif-ders-kitabi",
 };
 const KITAP_LISTESI = "https://tymm.meb.gov.tr/ders-kitaplari/ortaogretim";
 const ODSGM_TABLO = "https://odsgm.meb.gov.tr/www/1donem-konu-soru-dagilim-tablolari-2026-2027/icerik/1724/tr";
@@ -54,6 +58,92 @@ const ICERIK = {
       { ad: "Soru seti cevap anahtarı", dosya: "content/tarih/cevap-anahtari.md", anahtar: true },
       { ad: "Deneme sınavı (40 dk, 7 soru)", dosya: "content/tarih/deneme-sinavi.md" },
       { ad: "Deneme cevap anahtarı", dosya: "content/tarih/deneme-cevap-anahtari.md", anahtar: true },
+    ]
+  },
+  "matematik": {
+    "1. Dönem 1. Yazılı": [
+      { ad: "Konu: Üslü ve köklü gösterimlerle işlemler", dosya: "content/matematik/konu-mat-9-1-1.md", kod: "9.1.1", konu: true },
+      { ad: "Konu: Gerçek sayı aralıkları ve küme sembolleri", dosya: "content/matematik/konu-mat-9-1-2.md", kod: "9.1.2", konu: true },
+      { ad: "Konu: Sayı kümeleri ve işlem özellikleri", dosya: "content/matematik/konu-mat-9-1-3.md", kod: "9.1.3", konu: true },
+      { ad: "Konu: İşlem özellikleri, önermeler ve özdeşlikler", dosya: "content/matematik/konu-mat-9-1-4.md", kod: "9.1.4", konu: true },
+      { ad: "Konu: Doğrusal fonksiyonlar ve nitel özellikleri", dosya: "content/matematik/konu-mat-9-2-1.md", kod: "9.2.1", konu: true },
+      { ad: "Kazanım haritası ve 4 günlük program", dosya: "content/matematik/kazanim-haritasi.md" },
+      { ad: "Soru seti (20 soru)", dosya: "content/matematik/soru-seti.md" },
+      { ad: "Soru seti cevap anahtarı", dosya: "content/matematik/cevap-anahtari.md", anahtar: true },
+      { ad: "Deneme sınavı (40 dk, 9 soru)", dosya: "content/matematik/deneme-sinavi.md" },
+      { ad: "Deneme cevap anahtarı", dosya: "content/matematik/deneme-cevap-anahtari.md", anahtar: true },
+    ]
+  },
+  "fizik": {
+    "1. Dönem 1. Yazılı": [
+      { ad: "Konu: Fizik bilimi nedir?", dosya: "content/fizik/konu-fiz-9-1-1.md", kod: "FİZ.9.1.1", konu: true },
+      { ad: "Konu: Fizik biliminin alt dalları", dosya: "content/fizik/konu-fiz-9-1-2.md", kod: "FİZ.9.1.2", konu: true },
+      { ad: "Konu: Fizik bilimine yön verenler", dosya: "content/fizik/konu-fiz-9-1-3.md", kod: "FİZ.9.1.3", konu: true },
+      { ad: "Konu: Fizikle ilgili kariyer keşfi", dosya: "content/fizik/konu-fiz-9-1-4.md", kod: "FİZ.9.1.4", konu: true },
+      { ad: "Konu: Temel ve türetilmiş nicelikler", dosya: "content/fizik/konu-fiz-9-2-1.md", kod: "FİZ.9.2.1", konu: true },
+      { ad: "Konu: Skaler ve vektörel nicelikler", dosya: "content/fizik/konu-fiz-9-2-2.md", kod: "FİZ.9.2.2", konu: true },
+      { ad: "Konu: Vektörler (eşit, zıt, katı)", dosya: "content/fizik/konu-fiz-9-2-3.md", kod: "FİZ.9.2.3", konu: true },
+      { ad: "Kazanım haritası ve 5 günlük program", dosya: "content/fizik/kazanim-haritasi.md" },
+      { ad: "Soru seti (21 soru)", dosya: "content/fizik/soru-seti.md" },
+      { ad: "Soru seti cevap anahtarı", dosya: "content/fizik/cevap-anahtari.md", anahtar: true },
+      { ad: "Deneme sınavı (40 dk, 7 soru)", dosya: "content/fizik/deneme-sinavi.md" },
+      { ad: "Deneme cevap anahtarı", dosya: "content/fizik/deneme-cevap-anahtari.md", anahtar: true },
+    ]
+  },
+  "turk-dili-ve-edebiyati": {
+    "1. Dönem 1. Yazılı": [
+      { ad: "Konu: Şiir ve denemede anlam oluşturma", dosya: "content/turk-dili-ve-edebiyati/konu-tde-2-2.md", kod: "TDE2.2", konu: true },
+      { ad: "Konu: Betimleme paragrafı ve yazım kuralları", dosya: "content/turk-dili-ve-edebiyati/konu-tde-4-3.md", kod: "TDE4.3", konu: true },
+      { ad: "Kazanım haritası ve günlük program", dosya: "content/turk-dili-ve-edebiyati/kazanim-haritasi.md" },
+      { ad: "Soru seti (13 soru)", dosya: "content/turk-dili-ve-edebiyati/soru-seti.md" },
+      { ad: "Soru seti cevap anahtarı", dosya: "content/turk-dili-ve-edebiyati/cevap-anahtari.md", anahtar: true },
+      { ad: "Deneme sınavı (40 dk, 7 soru)", dosya: "content/turk-dili-ve-edebiyati/deneme-sinavi.md" },
+      { ad: "Deneme cevap anahtarı", dosya: "content/turk-dili-ve-edebiyati/deneme-cevap-anahtari.md", anahtar: true },
+    ]
+  },
+  "cografya": {
+    "1. Dönem 1. Yazılı": [
+      { ad: "Konu: Coğrafyanın konusu ve bölümleri", dosya: "content/cografya/konu-cog-9-1-1.md", kod: "COĞ.9.1.1", konu: true },
+      { ad: "Konu: Niçin coğrafya öğrenmeliyiz?", dosya: "content/cografya/konu-cog-9-1-2.md", kod: "COĞ.9.1.2", konu: true },
+      { ad: "Konu: Coğrafya biliminin gelişimi", dosya: "content/cografya/konu-cog-9-1-3.md", kod: "COĞ.9.1.3", konu: true },
+      { ad: "Konu: Haritalar ve harita uygulamaları", dosya: "content/cografya/konu-cog-9-2-1.md", kod: "COĞ.9.2.1", konu: true },
+      { ad: "Konu: Türkiye'nin coğrafi konumu", dosya: "content/cografya/konu-cog-9-2-2.md", kod: "COĞ.9.2.2", konu: true },
+      { ad: "Konu: Mekânsal bilgi teknolojilerinin bileşenleri", dosya: "content/cografya/konu-cog-9-2-3.md", kod: "COĞ.9.2.3", konu: true },
+      { ad: "Konu: Hava olayları ve günlük hayata etkileri", dosya: "content/cografya/konu-cog-9-3-1.md", kod: "COĞ.9.3.1", konu: true },
+      { ad: "Kazanım haritası ve günlük program", dosya: "content/cografya/kazanim-haritasi.md" },
+      { ad: "Soru seti", dosya: "content/cografya/soru-seti.md" },
+      { ad: "Soru seti cevap anahtarı", dosya: "content/cografya/cevap-anahtari.md", anahtar: true },
+      { ad: "Deneme sınavı (40 dk, 8 soru)", dosya: "content/cografya/deneme-sinavi.md" },
+      { ad: "Deneme cevap anahtarı", dosya: "content/cografya/deneme-cevap-anahtari.md", anahtar: true },
+    ]
+  },
+  "din-kulturu": {
+    "1. Dönem 1. Yazılı": [
+      { ad: "Konu: İnsan ve insanın yaratılışı", dosya: "content/din-kulturu/konu-dkab-9-1-1.md", kod: "DKAB.9.1.1", konu: true },
+      { ad: "Konu: Doğruyu arayan bir varlık olarak insan", dosya: "content/din-kulturu/konu-dkab-9-1-2.md", kod: "DKAB.9.1.2", konu: true },
+      { ad: "Konu: İbadet ve dua eden bir varlık olarak insan", dosya: "content/din-kulturu/konu-dkab-9-1-3.md", kod: "DKAB.9.1.3", konu: true },
+      { ad: "Konu: Kur'an'dan mesajlar (Rum suresi 17-27)", dosya: "content/din-kulturu/konu-dkab-9-1-4.md", kod: "DKAB.9.1.4", konu: true },
+      { ad: "Konu: İman ve imanın mahiyeti", dosya: "content/din-kulturu/konu-dkab-9-2-1.md", kod: "DKAB.9.2.1", konu: true },
+      { ad: "Kazanım haritası ve günlük program", dosya: "content/din-kulturu/kazanim-haritasi.md" },
+      { ad: "Soru seti (17 soru)", dosya: "content/din-kulturu/soru-seti.md" },
+      { ad: "Soru seti cevap anahtarı", dosya: "content/din-kulturu/cevap-anahtari.md", anahtar: true },
+      { ad: "Deneme sınavı (40 dk, 7 soru)", dosya: "content/din-kulturu/deneme-sinavi.md" },
+      { ad: "Deneme cevap anahtarı", dosya: "content/din-kulturu/deneme-cevap-anahtari.md", anahtar: true },
+    ]
+  },
+  "ingilizce": {
+    "1. Dönem 1. Yazılı": [
+      { ad: "Konu: Revision 1 – Okul hayatı, öğrenme, 8. sınıf dil bilgisi", dosya: "content/ingilizce/konu-eng-rev1-school.md", kodlar: ["ENG.8.1.R3", "ENG.8.2.V1", "ENG.8.3.G1"], konu: true },
+      { ad: "Konu: Revision 1 – Aile hayatı ve ev", dosya: "content/ingilizce/konu-eng-rev1-family.md", kodlar: ["ENG.8.4.R3"], konu: true },
+      { ad: "Konu: Revision 2 – Dünya mutfakları ve gelecekte yaşam", dosya: "content/ingilizce/konu-eng-rev2.md", kodlar: ["ENG.8.6.V1", "ENG.8.8.R3"], konu: true },
+      { ad: "Konu: Theme 1 – Ülkeler, milliyetler, turistik yerler (okuma-kelime)", dosya: "content/ingilizce/konu-eng-9-1-okuma.md", kodlar: ["ENG.9.1.R2", "ENG.9.1.R3", "ENG.9.1.V1"], konu: true },
+      { ad: "Konu: Theme 1 – to be, can ve soru kalıpları", dosya: "content/ingilizce/konu-eng-9-1-dilbilgisi.md", kodlar: ["ENG.9.1.G1"], konu: true },
+      { ad: "Konu: Theme 1 – Ülke tanıtımı ve e-posta yazma", dosya: "content/ingilizce/konu-eng-9-1-yazma.md", kodlar: ["ENG.9.1.W3", "ENG.9.1.W4"], konu: true },
+      { ad: "Kazanım haritası ve günlük program", dosya: "content/ingilizce/kazanim-haritasi.md" },
+      { ad: "Soru seti (20 soru)", dosya: "content/ingilizce/soru-seti.md" },
+      { ad: "Soru seti cevap anahtarı", dosya: "content/ingilizce/cevap-anahtari.md", anahtar: true },
+      { ad: "Deneme sınavı (40 dk, 7 soru)", dosya: "content/ingilizce/deneme-sinavi.md" },
+      { ad: "Deneme cevap anahtarı", dosya: "content/ingilizce/deneme-cevap-anahtari.md", anahtar: true },
     ]
   }
 };
@@ -219,7 +309,12 @@ function cizDers(ders, sinav, sekme) {
 }
 
 function konuDosyasi(icerik, k) {
-  return (icerik || []).find(i => i.konu && i.kod && (k.kod === i.kod)) || null;
+  // kod birebir eşleşir; kodu boş kazanımlarda (ör. İngilizce) kod, metnin başındadır.
+  return (icerik || []).find(i => {
+    if (!i.konu) return false;
+    const kodlar = i.kodlar || (i.kod ? [i.kod] : []);
+    return kodlar.some(c => k.kod === c || (!k.kod && String(k.metin || "").startsWith(c)));
+  }) || null;
 }
 
 function cizTablo($b, ders, sinav, senaryoIdx) {
