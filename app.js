@@ -1,5 +1,5 @@
 /* 9. Sınıf Sınav Hazırlık — MEB konu soru dağılım tablolarından çalışma programı üretir. */
-const APP_VERSION = "1.0.0";
+const APP_VERSION = "1.1.0";
 const VARSAYILAN_SINAV = "1. Dönem 1. Yazılı"; // şu anki sınav dönemi
 
 const KITAPLAR = {
@@ -16,6 +16,9 @@ const OYSS_KILAVUZ = "https://odsgm.meb.gov.tr/www/ortak-yazili-sinav-sistemi-uy
 const ICERIK = {
   "biyoloji": {
     "1. Dönem 1. Yazılı": [
+      { ad: "Konu: Biyolojinin önemi ve dönüm noktaları", dosya: "content/biyoloji/konu-biy-9-1-1.md", kod: "BİY.9.1.1", konu: true },
+      { ad: "Konu: Bilimin doğası ve bilimsel yöntem", dosya: "content/biyoloji/konu-biy-9-1-2.md", kod: "BİY.9.1.2", konu: true },
+      { ad: "Konu: Canlıların ortak özellikleri", dosya: "content/biyoloji/konu-biy-9-1-4.md", kod: "BİY.9.1.4", konu: true },
       { ad: "Kazanım haritası ve 2 günlük program", dosya: "content/biyoloji/kazanim-haritasi.md" },
       { ad: "Gün 1 soru seti (12 soru)", dosya: "content/biyoloji/gun-1-soru-seti.md" },
       { ad: "Gün 1 cevap anahtarı", dosya: "content/biyoloji/gun-1-cevap-anahtari.md", anahtar: true },
@@ -105,7 +108,7 @@ function cizAnaSayfa() {
         <li>MEB her ders için <a href="${ODSGM_TABLO}" target="_blank" rel="noopener">konu soru dağılım tablosu</a> yayınlıyor. Sınav bu tablonun dışına çıkamaz.</li>
         <li>Okulun zümresi tablodaki senaryolardan birini seçiyor, sana söylenmiyor. Bu yüzden program <strong>bütün senaryoları</strong> kapsayacak şekilde kurulur. Senaryoyu öğrenirsen seçip daraltabilirsin.</li>
         <li>Sınav 40 dakika, açık uçlu; iki soruyu öğretmenlerin, kalanı MEB soru havuzu hazırlıyor (<a href="${OYSS_KILAVUZ}" target="_blank" rel="noopener">OYSS kılavuzu</a>).</li>
-        <li>Her kazanım için üç adım: kitaptan oku → yarım sayfa özet yaz → soru çöz. İşaretledikçe ilerleme çubuğu dolar. İşaretler bu cihazda saklanır.</li>
+        <li>Her kazanım için üç adım: konu anlatımını oku → kendi cümlelerinle yarım sayfa özet yaz → soru çöz. Konu anlatımı ve sorular uygulamanın içinde; kitaba bakmak gerekmez. İşaretler bu cihazda saklanır.</li>
       </ol>
     </div>`;
 }
@@ -148,7 +151,7 @@ function cizDers(ders, sinav, sekme) {
   if (kalan !== null) kalanYazi = kalan < 0 ? "Sınav yapıldı" : kalan === 0 ? "BUGÜN" : `${kalan} gün`;
 
   const altSekmeler = [["program","Program"],["tablo","Soru dağılımı"],["kaynak","Kaynaklar"]];
-  if (icerik.length) altSekmeler.splice(2, 0, ["sorular","Soru setleri"]);
+  if (icerik.length) altSekmeler.splice(2, 0, ["sorular","Konu anlatımı ve sorular"]);
 
   $app.innerHTML = `
     <div class="kirinti"><a href="#/">Dersler</a> › ${h(ders.ad)}</div>
@@ -184,7 +187,11 @@ function cizDers(ders, sinav, sekme) {
   if (sekme === "tablo") cizTablo($b, ders, sinav, senaryoIdx);
   else if (sekme === "sorular") cizSorular($b, ders, sinav, icerik);
   else if (sekme === "kaynak") cizKaynak($b, ders, sinav);
-  else cizProgram($b, ders, sinav, senaryoIdx, kalan);
+  else cizProgram($b, ders, sinav, senaryoIdx, kalan, icerik);
+}
+
+function konuDosyasi(icerik, k) {
+  return (icerik || []).find(i => i.konu && i.kod && (k.kod === i.kod)) || null;
 }
 
 function cizTablo($b, ders, sinav, senaryoIdx) {
@@ -232,7 +239,7 @@ function programUret(sinav, senaryoIdx, kalan) {
   return { gunler, kaz, tekrarVar, gunSayisi };
 }
 
-function cizProgram($b, ders, sinav, senaryoIdx, kalan) {
+function cizProgram($b, ders, sinav, senaryoIdx, kalan, icerik) {
   const { gunler, kaz, tekrarVar, gunSayisi } = programUret(sinav, senaryoIdx, kalan);
   if (!kaz.length) { $b.innerHTML = `<div class="not">Seçili senaryoda soru çıkan kazanım yok.</div>`; return; }
   const t = bugun();
@@ -248,14 +255,19 @@ function cizProgram($b, ders, sinav, senaryoIdx, kalan) {
       const satir = ["oku","ozet","soru"].map(g => {
         const key = anahtar(ders, sinav, k, g);
         const v = oku(key, false);
-        const ad = { oku: "Kitaptan okudum", ozet: "Özet yazdım", soru: "Soru çözdüm" }[g];
+        const ad = { oku: "Konuyu okudum", ozet: "Kendi özetimi yazdım", soru: "Soru çözdüm" }[g];
         return `<label class="${v ? "tamam" : ""}"><input type="checkbox" data-key="${h(key)}" ${v ? "checked" : ""}> ${ad}</label>`;
       }).join("");
       const sayi = senaryoIdx === null ? `${Math.min(...k.sorular)}-${Math.max(...k.sorular)} soru` : `${k.sorular[senaryoIdx]} soru`;
+      const kd = konuDosyasi(icerik, k);
+      const konuLink = kd
+        ? `<a class="dugme ikincil" style="padding:6px 12px;font-size:13px" href="#/${ders.id}/${encodeURIComponent(sinav.ad)}/sorular" data-konu="${h(kd.dosya)}">📖 Konu anlatımını aç</a>`
+        : `<span style="font-size:13px;color:var(--soluk)">Konu anlatımı henüz eklenmedi; ders kitabını kullan (Kaynaklar).</span>`;
       return `<div class="gorev oncelik-${onc}" style="padding-left:10px">
         <div style="flex:1">
           <div><span class="kod">${h(k.kod)}</span> <strong>${h(k.konu || k.unite)}</strong> <span class="rozet ${onc === 1 ? "kotu" : onc === 2 ? "uyari" : "iyi"}">${sayi}</span></div>
           <div style="font-size:14px;color:var(--soluk)">${h(k.metin)}</div>
+          <div style="margin:8px 0 2px">${konuLink}</div>
           <div class="alt-gorev">${satir}</div>
         </div></div>`;
     }).join("");
@@ -273,16 +285,22 @@ function cizProgram($b, ders, sinav, senaryoIdx, kalan) {
     </div>`;
   }
   $b.innerHTML = `${uyari}
-    <p class="alt-baslik">Kazanımlar kitap sırasıyla, ağırlığa göre günlere bölündü. Her kazanımda üç adım: oku, özet, soru. ${senaryoIdx === null ? "Soru sayısı aralığı senaryolar arasındaki en az ve en çok değer." : ""}</p>
+    <p class="alt-baslik">Kazanımlar kitap sırasıyla, ağırlığa göre günlere bölündü. Her kazanımda üç adım: konu anlatımını oku, kendi cümlelerinle yarım sayfa özet yaz, soru çöz. ${senaryoIdx === null ? "Soru sayısı aralığı senaryolar arasındaki en az ve en çok değer." : ""}</p>
     ${gunHtml}${tekrarHtml}
     <div class="not iyi" style="margin-top:14px"><strong>Sınav günü:</strong> önce tüm soruları oku, puanı yüksek olandan başla, her cevabı tam cümleyle yaz, hiçbir soruyu boş bırakma.</div>`;
   $b.querySelectorAll("input[data-key]").forEach(cb => cb.onchange = () => { kaydet(cb.dataset.key, cb.checked); ciz(); });
+  $b.querySelectorAll("a[data-konu]").forEach(a => a.onclick = () => kaydet(`icerik:${ders.id}:${sinav.ad}`, a.dataset.konu));
 }
 
 async function cizSorular($b, ders, sinav, icerik) {
   const secili = oku(`icerik:${ders.id}:${sinav.ad}`, icerik[0].dosya);
-  const dugmeler = icerik.map(i => `<button class="sekme ${i.dosya === secili ? "aktif" : ""}" data-dosya="${h(i.dosya)}">${i.anahtar ? "🔒 " : ""}${h(i.ad)}</button>`).join("");
-  $b.innerHTML = `<div class="sekmeler">${dugmeler}</div><div class="kart markdown" id="md">Yükleniyor…</div>`;
+  const dugme = i => `<button class="sekme ${i.dosya === secili ? "aktif" : ""}" data-dosya="${h(i.dosya)}">${i.anahtar ? "🔒 " : i.konu ? "📖 " : "✏️ "}${h(i.ad)}</button>`;
+  const konular = icerik.filter(i => i.konu), digerleri = icerik.filter(i => !i.konu);
+  $b.innerHTML = `
+    <p class="alt-baslik">Önce konu anlatımını oku (kitaba gerek yok), sonra soru setini çöz, en son anahtarla puanla.</p>
+    ${konular.length ? `<div style="font-size:12px;color:var(--soluk);text-transform:uppercase;letter-spacing:.04em">Konu anlatımları</div><div class="sekmeler" style="margin-top:6px">${konular.map(dugme).join("")}</div>` : ""}
+    <div style="font-size:12px;color:var(--soluk);text-transform:uppercase;letter-spacing:.04em">Sorular ve anahtarlar</div><div class="sekmeler" style="margin-top:6px">${digerleri.map(dugme).join("")}</div>
+    <div class="kart markdown" id="md">Yükleniyor…</div>`;
   $b.querySelectorAll("[data-dosya]").forEach(b => b.onclick = () => { kaydet(`icerik:${ders.id}:${sinav.ad}`, b.dataset.dosya); ciz(); });
   const bilgi = icerik.find(i => i.dosya === secili);
   const $md = document.getElementById("md");
